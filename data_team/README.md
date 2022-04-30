@@ -32,4 +32,19 @@
 - pilot05.npy, x:  (16156, 150, 150, 3),   y:  (16156,)
 
 
+- face001 = ['neutral', 'happy', 'sad', 'angry', 'stress', 'relax']
+- face002 = ['neutral', 'stress','happy','sad','relax','angry']
+- face003 = ['stress','sad','neutral','happy','relax','angry']
+- face004 = ['neutral','happy','relax','stress','sad','angry']
+- face005 = ['negative-deactive','positive-deactive','positive-active','neutral','negative-active']
+- face006 = ['neutral','stress','sad','relax','happy','angry']
+- face007 = ['neutral','stress','happy','relax','sad','angry']
+- face008 = ['neutral','positive-deactive','positive-active','negative-active','negative-deactive']
+- pilot01 = ['positive-active','positive-deactive','negative-deactive','neutral','negative-active']
+- pilot02 = ['positive-deactive','neutral','negative-deactive','positive-active','negative-active']
+- pilot03 = ['negative-deactive','positive-deactive','negative-active','positive-active','neutral']
+- pilot04 = ['negative-deactive','positive-deactive','positive-active','negative-active']
+- pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
+
+
 
