@@ -16,4 +16,5 @@
 
 
 ## voting_dataset
-- 
+- path_ku : 'drive/MyDrive/tech_vdo/'
+- path_chula : 'drive/MyDrive/tech_own/'
