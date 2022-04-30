@@ -24,7 +24,16 @@
 ## label
 ### psy_team
 - psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/' 
+	- filenames2 = ['01.csv', '02.csv', '03.csv', '04.csv', '05.csv', '06.csv', '07.csv', '08.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 - psy_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv_psy/v2/' (filtered dataset)
+	- filenames1 = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
 ### data_team
 - data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/'
+	- filenames1 = ['01_256.csv', '02_256.csv', '03_256.csv', '04_224.csv', '05_94_126.csv', '06_224.csv', '07_224.csv', '08_98_134.csv', 'pilot01_224.csv', 'pilot02_150.csv', 'pilot03_150.csv', 'pilot04_150.csv', 'pilot05_150.csv']
 - data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/' (filtered dataset)
+	- filenames2 = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
+
+
+
+
+
