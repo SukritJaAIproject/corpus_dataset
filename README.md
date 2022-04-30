@@ -19,8 +19,9 @@
 - path_ku : 'drive/MyDrive/tech_vdo/'
 
 - path_chula : 'drive/MyDrive/tech_own/'
-- path_chula_x : 'drive/MyDrive/tech_own/voting_dataset/' (original dataset)
 
+- path_chula_x : 'drive/MyDrive/tech_own/x_data_team/' (original-datateam-dataset)
+	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 ## label
 ### psy_team
 - psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/' 
@@ -39,7 +40,7 @@
 - data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/' (filtered dataset)
 - data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/numpy/'
 	- filenames = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
-	- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 
 
 

@@ -1,0 +1,35 @@
+## voting_dataset
+- path_ku : 'drive/MyDrive/tech_vdo/'
+- path_chula : 'drive/MyDrive/tech_own/'
+
+
+- path_chula_x : 'drive/MyDrive/tech_own/x_data_team/' (original-datateam-dataset)
+	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+## label
+### data_team
+- data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/'
+- data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/numpy/'
+	- filenames = ['01_256.csv', '02_256.csv', '03_256.csv', '04_224.csv', '05_94_126.csv', '06_224.csv', '07_224.csv', '08_98_134.csv', 'pilot01_224.csv', 'pilot02_150.csv', 'pilot03_150.csv', 'pilot04_150.csv', 'pilot05_150.csv']
+	- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+- data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/' (filtered dataset)
+- data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/numpy/'
+	- filenames = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
+	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+
+## data shape
+- face001.npy, x:  (35442, 256, 256, 3),  y:  (35442,)
+- face002.npy, x:  (40428, 256, 256, 3),  y:  (40428,)
+- face003.npy, x:  (13245, 256, 256, 3),  y:  (13245,)
+- face004.npy, x:  (47732, 224, 224, 3),  y:  (47732,)
+- face005.npy, x:  (14991, 126, 94, 3),    y:  (14991,)
+- face006.npy, x:  (32621, 224, 224, 3),  y:  (32621,)
+- face007.npy, x:  (47334, 224, 224, 3),  y:  (47334,)
+- face008.npy, x:  (23840, 134, 98, 3),   y:  (23840,)
+- pilot01.npy, x:  (13089, 224, 224, 3),   y:  (13089,)
+- pilot02.npy, x:  (14831, 150, 150, 3),   y:  (14831,)
+- pilot03.npy, x:  (40041, 150, 150, 3),   y:  (40041,)
+- pilot04.npy, x:  (12491, 150, 150, 3),   y:  (12491,)
+- pilot05.npy, x:  (16156, 150, 150, 3),   y:  (16156,)
+
+
+
