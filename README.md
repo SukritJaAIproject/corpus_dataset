@@ -10,5 +10,8 @@
 - voting_copy6 : https://colab.research.google.com/drive/1AjoGPEzgoz_Tt82bDFFaDFfaRM3STv8K?usp=sharing
 
 
+## voting by ai
+- voting_by_ai : https://colab.research.google.com/drive/17X6iUJ9vy_bbeZ4WmyYsI3TPchpf0Izu?usp=sharing
+
 
 
