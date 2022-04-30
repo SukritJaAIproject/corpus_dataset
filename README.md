@@ -19,4 +19,12 @@
 - path_ku : 'drive/MyDrive/tech_vdo/'
 
 - path_chula : 'drive/MyDrive/tech_own/'
-- path_chula : 'drive/MyDrive/tech_own/voting_dataset/' (original dataset)
+- path_chula_x : 'drive/MyDrive/tech_own/voting_dataset/' (original dataset)
+
+## label
+### psy_team
+- psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/' 
+- psy_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv_psy/v2/' (filtered dataset)
+### data_team
+- data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/'
+- data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/' (filtered dataset)
