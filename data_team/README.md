@@ -31,7 +31,7 @@
 - pilot04.npy, x:  (12491, 150, 150, 3),   y:  (12491,)
 - pilot05.npy, x:  (16156, 150, 150, 3),   y:  (16156,)
 
-
+## data class
 - face001 = ['neutral', 'happy', 'sad', 'angry', 'stress', 'relax']
 - face002 = ['neutral', 'stress','happy','sad','relax','angry']
 - face003 = ['stress','sad','neutral','happy','relax','angry']
