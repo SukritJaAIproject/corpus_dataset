@@ -60,3 +60,13 @@ for filename in filenames:
 
 
 dic_con = {'happy':'positive-active', 'relax':'positive-deactive', 'neutral':'neutral','angry':'negative-active', 'stress':'negative-active','sad':'negative-deactive',}
+
+
+## print show int classes
+# # !ls 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+# path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+# y_name =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+
+# for i in range(len(y_name)):
+#   y = np.load(path+y_name[i])
+#   print(y_name[i][:-4]+'=', pd.unique(y))
