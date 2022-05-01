@@ -58,9 +58,7 @@ for filename in filenames:
 # pilot04 = ['negative-deactive','positive-deactive','positive-active','negative-active']
 # pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
 
-
-dic_con = {'happy':'positive-active', 'relax':'positive-deactive', 'neutral':'neutral','angry':'negative-active', 'stress':'negative-active','sad':'negative-deactive',}
-
+#dic_con = {'happy':'positive-active', 'relax':'positive-deactive', 'neutral':'neutral','angry':'negative-active', 'stress':'negative-active','sad':'negative-deactive',}
 
 ## print show int classes
 # # !ls 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
@@ -70,3 +68,26 @@ dic_con = {'happy':'positive-active', 'relax':'positive-deactive', 'neutral':'ne
 # for i in range(len(y_name)):
 #   y = np.load(path+y_name[i])
 #   print(y_name[i][:-4]+'=', pd.unique(y))
+
+### backup 1
+# path_x, path_y = 'drive/MyDrive/tech_own/x_data_team/', 'drive/MyDrive/tech_vdo/csv/numpy/'
+# x_name = ['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+# y_name = x_name
+# ### print show shape 
+# # for i in range(len(x_name)):
+# #   x_test, y_test = np.load(path_x+x_name[i]), np.load(path_y+y_name[i])
+# #   print('x_test: ', x_test.shape, '| y_test: ', y_test.shape)
+
+### backup 2
+# # !ls 'drive/MyDrive/tech_vdo/csv/numpy/'
+# # filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+# !ls 'drive/MyDrive/tech_own/x_data_team/'
+# filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+
+### backup 3
+# # psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/numpy/' 
+# # psy_team_pathy_v2 ='drive/MyDrive/tech_vdo/csv_psy/v2/numpy/'
+
+# # data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/numpy/'
+# data_team_pathy_v2 = 'drive/MyDrive/tech_vdo/csv/numpy/' 
+#   # filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
