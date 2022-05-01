@@ -55,18 +55,24 @@
  'sad':'negative-deactive',
  }
  
-## data class
-- face001 = ['neutral', 'happy', 'sad', 'angry', 'stress', 'relax']
-- face002 = ['neutral', 'stress','happy','sad','relax','angry']
-- face003 = ['stress','sad','neutral','happy','relax','angry']
-- face004 = ['neutral','happy','relax','stress','sad','angry']
-- face005 = ['negative-deactive','positive-deactive','positive-active','neutral','negative-active']
-- face006 = ['neutral','stress','sad','relax','happy','angry']
-- face007 = ['neutral','stress','happy','relax','sad','angry']
-- face008 = ['neutral','positive-deactive','positive-active','negative-active','negative-deactive']
-- pilot01 = ['positive-active','positive-deactive','negative-deactive','neutral','negative-active']
-- pilot02 = ['positive-deactive','neutral','negative-deactive','positive-active','negative-active']
-- pilot03 = ['negative-deactive','positive-deactive','negative-active','positive-active','neutral']
-- pilot04 = ['negative-deactive','positive-deactive','positive-active','negative-active']
-- pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
-
+## Convert
+{ 'happy':'pos-act','relax':'pos-deact',
+ 'neutral':'neutral',
+ 'angry':'neg-act', 'stress':'neg-act','sad':'neg-deact',
+}
+ 
+## new class
+- - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
+- face001= ['neutral' 'pos-act' 'neg-deact' 'neg-act' 'pos-deact']
+- face002= ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
+- face003= ['neg-act' 'neg-deact' 'neutral' 'pos-act' 'pos-deact']
+- face004= ['neutral' 'pos-act' 'pos-deact' 'neg-act' 'neg-deact']
+- face005= ['neg-deact' 'pos-deact' 'pos-act' 'neutral' 'neg-act']
+- face006= ['neutral' 'neg-act' 'neg-deact' 'pos-deact' 'pos-act']
+- face007= ['neutral' 'neg-act' 'pos-act' 'pos-deact' 'neg-deact']
+- face008= ['neutral' 'pos-deact' 'pos-act' 'neg-act' 'neg-deact']
+- pilot01= ['pos-act' 'pos-deact' 'neg-deact' 'neutral' 'neg-act']
+- pilot02= ['pos-deact' 'neutral' 'neg-deact' 'pos-act' 'neg-act']
+- pilot03= ['neg-deact' 'pos-deact' 'neg-act' 'pos-act' 'neutral']
+- pilot04= ['neg-deact' 'pos-deact' 'pos-act' 'neg-act']
+- pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
