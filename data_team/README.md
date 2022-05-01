@@ -52,6 +52,8 @@
 	- {'happy':'pos-act','relax':'pos-deact', 'neutral':'neutral','angry':'neg-act', 'stress':'neg-act','sad':'neg-deact'}
 	- convert1 = {'pos-act':0, 'pos-deact':1, 'neutral':2, 'neg-act':3, 'neg-deact':4}
 	- convert2 = {'pos-act':1, 'pos-deact':3, 'neutral':2, 'neg-act':0, 'neg-deact':4} #res50
+	- convert = {0:'angry', 1:'happy', 2:'neutral', 3:'relax', 4:'sad'}
+	- convert = {'happy':0, 'relax':1, 'neutral':2, 'angry':3, 'sad':4}
  
 ## new class
 - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
