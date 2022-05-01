@@ -90,7 +90,7 @@
 ## implementation
 - x_train = 'drive/MyDrive/tech_own/x_data_team/' 
 	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-- y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+- y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
 	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 	
 	
