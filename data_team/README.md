@@ -47,19 +47,15 @@
 - pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
 
 ## Convert
-{
- 'happy':'positive-active', 
+- {'happy':'positive-active', 
  'relax':'positive-deactive',
  'neutral':'neutral',
  'angry':'negative-active', 'stress':'negative-active',
- 'sad':'negative-deactive',
- }
+ 'sad':'negative-deactive'}
  
-## Convert
-{ 'happy':'pos-act','relax':'pos-deact',
+- {'happy':'pos-act','relax':'pos-deact',
  'neutral':'neutral',
- 'angry':'neg-act', 'stress':'neg-act','sad':'neg-deact',
-}
+ 'angry':'neg-act', 'stress':'neg-act','sad':'neg-deact'}
  
 ## new class
 - - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
