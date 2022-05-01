@@ -22,11 +22,11 @@
 	- h_r_sa_st_y_train_balance.npy
 	
 - x_test filename 
-	- a_h_r_sa_x_test_balance.npy
+	'''- a_h_r_sa_x_test_balance.npy
 	- a_h_r_st_x_test_balance_v1.npy
 	- a_h_sa_st_x_test_balance_v1.npy
 	- a_r_sa_st_x_test_balance.npy
-	- h_r_sa_st_x_test_balance.npy
+	- h_r_sa_st_x_test_balance.npy'''
 	
 - y_test filename 
 	- a_h_r_sa_y_test_balance.npy
