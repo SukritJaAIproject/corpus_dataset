@@ -36,9 +36,9 @@
 	- h_r_sa_st_y_test_balance.npy
 	
 ## skip5frame
-- path_r = '/content/drive/MyDrive/data/'
-- x_path, y_path = path_r+ 'anger_session_talk_x_skip5frame.npy', path_r+ 'anger_session_talk_y_skip5frame.npy'
-- x_path, y_path = path_r+ 'happy_session_talk_x_skip5frame.npy', path_r+ 'happy_session_talk_y_skip5frame.npy'
-- x_path, y_path = path_r+ 'relax_session_talk_x_skip5frame.npy', path_r+ 'relax_session_talk_y_skip5frame.npy'
-- x_path, y_path = path_r+ 'sad_session_talk_x_skip5frame.npy', path_r+ 'sad_session_talk_y_skip5frame.npy'
-- x_path, y_path = path_r+ 'stress_session_talk_x_skip5frame.npy', path_r+ 'stress_session_talk_y_skip5frame.npy'
+	- path_r = '/content/drive/MyDrive/data/'
+	- x_path, y_path = path_r+ 'anger_session_talk_x_skip5frame.npy', path_r+ 'anger_session_talk_y_skip5frame.npy'
+	- x_path, y_path = path_r+ 'happy_session_talk_x_skip5frame.npy', path_r+ 'happy_session_talk_y_skip5frame.npy'
+	- x_path, y_path = path_r+ 'relax_session_talk_x_skip5frame.npy', path_r+ 'relax_session_talk_y_skip5frame.npy'
+	- x_path, y_path = path_r+ 'sad_session_talk_x_skip5frame.npy', path_r+ 'sad_session_talk_y_skip5frame.npy'
+	- x_path, y_path = path_r+ 'stress_session_talk_x_skip5frame.npy', path_r+ 'stress_session_talk_y_skip5frame.npy'
