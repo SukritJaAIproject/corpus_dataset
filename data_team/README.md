@@ -48,15 +48,8 @@
 	- pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
 
 ## Convert
-- {'happy':'positive-active', 
- 'relax':'positive-deactive',
- 'neutral':'neutral',
- 'angry':'negative-active', 'stress':'negative-active',
- 'sad':'negative-deactive'}
- 
-- {'happy':'pos-act','relax':'pos-deact',
- 'neutral':'neutral',
- 'angry':'neg-act', 'stress':'neg-act','sad':'neg-deact'}
+- {'happy':'positive-active', 'relax':'positive-deactive', 'neutral':'neutral', 'angry':'negative-active', 'stress':'negative-active','sad':'negative-deactive'}
+- {'happy':'pos-act','relax':'pos-deact', 'neutral':'neutral','angry':'neg-act', 'stress':'neg-act','sad':'neg-deact'}
  
 ## new class
 - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
@@ -75,8 +68,8 @@
 	- pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
 
 ## int class
-- ### path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
-
+- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 	- face001= [2 0 4 3 1]
 	- face002= [2 3 0 4 1]
 	- face003= [3 4 2 0 1]
@@ -90,7 +83,6 @@
 	- pilot03= [4 1 3 0 2]
 	- pilot04= [4 1 0 3]
 	- pilot05= [4 2 1 0 3]
-
 
 ## implementation
 - x_train = 'drive/MyDrive/tech_own/x_data_team/' 
