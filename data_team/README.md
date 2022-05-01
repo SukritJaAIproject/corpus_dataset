@@ -75,7 +75,7 @@
 - pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
 
 ## int class
--- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
 - face001= [2 0 4 3 1]
 - face002= [2 3 0 4 1]
 - face003= [3 4 2 0 1]
