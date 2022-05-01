@@ -18,34 +18,34 @@
 	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 
 ## data shape
-- face001.npy, x:  (35442, 256, 256, 3),  y:  (35442,)
-- face002.npy, x:  (40428, 256, 256, 3),  y:  (40428,)
-- face003.npy, x:  (13245, 256, 256, 3),  y:  (13245,)
-- face004.npy, x:  (47732, 224, 224, 3),  y:  (47732,)
-- face005.npy, x:  (14991, 126, 94, 3),    y:  (14991,)
-- face006.npy, x:  (32621, 224, 224, 3),  y:  (32621,)
-- face007.npy, x:  (47334, 224, 224, 3),  y:  (47334,)
-- face008.npy, x:  (23840, 134, 98, 3),   y:  (23840,)
-- pilot01.npy, x:  (13089, 224, 224, 3),   y:  (13089,)
-- pilot02.npy, x:  (14831, 150, 150, 3),   y:  (14831,)
-- pilot03.npy, x:  (40041, 150, 150, 3),   y:  (40041,)
-- pilot04.npy, x:  (12491, 150, 150, 3),   y:  (12491,)
-- pilot05.npy, x:  (16156, 150, 150, 3),   y:  (16156,)
+	- face001.npy, x:  (35442, 256, 256, 3),  y:  (35442,)
+	- face002.npy, x:  (40428, 256, 256, 3),  y:  (40428,)
+	- face003.npy, x:  (13245, 256, 256, 3),  y:  (13245,)
+	- face004.npy, x:  (47732, 224, 224, 3),  y:  (47732,)
+	- face005.npy, x:  (14991, 126, 94, 3),    y:  (14991,)
+	- face006.npy, x:  (32621, 224, 224, 3),  y:  (32621,)
+	- face007.npy, x:  (47334, 224, 224, 3),  y:  (47334,)
+	- face008.npy, x:  (23840, 134, 98, 3),   y:  (23840,)
+	- pilot01.npy, x:  (13089, 224, 224, 3),   y:  (13089,)
+	- pilot02.npy, x:  (14831, 150, 150, 3),   y:  (14831,)
+	- pilot03.npy, x:  (40041, 150, 150, 3),   y:  (40041,)
+	- pilot04.npy, x:  (12491, 150, 150, 3),   y:  (12491,)
+	- pilot05.npy, x:  (16156, 150, 150, 3),   y:  (16156,)
 
 ## data class
-- face001 = ['neutral', 'happy', 'sad', 'angry', 'stress', 'relax']
-- face002 = ['neutral', 'stress','happy','sad','relax','angry']
-- face003 = ['stress','sad','neutral','happy','relax','angry']
-- face004 = ['neutral','happy','relax','stress','sad','angry']
-- face005 = ['negative-deactive','positive-deactive','positive-active','neutral','negative-active']
-- face006 = ['neutral','stress','sad','relax','happy','angry']
-- face007 = ['neutral','stress','happy','relax','sad','angry']
-- face008 = ['neutral','positive-deactive','positive-active','negative-active','negative-deactive']
-- pilot01 = ['positive-active','positive-deactive','negative-deactive','neutral','negative-active']
-- pilot02 = ['positive-deactive','neutral','negative-deactive','positive-active','negative-active']
-- pilot03 = ['negative-deactive','positive-deactive','negative-active','positive-active','neutral']
-- pilot04 = ['negative-deactive','positive-deactive','positive-active','negative-active']
-- pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
+	- face001 = ['neutral', 'happy', 'sad', 'angry', 'stress', 'relax']
+	- face002 = ['neutral', 'stress','happy','sad','relax','angry']
+	- face003 = ['stress','sad','neutral','happy','relax','angry']
+	- face004 = ['neutral','happy','relax','stress','sad','angry']
+	- face005 = ['negative-deactive','positive-deactive','positive-active','neutral','negative-active']
+	- face006 = ['neutral','stress','sad','relax','happy','angry']
+	- face007 = ['neutral','stress','happy','relax','sad','angry']
+	- face008 = ['neutral','positive-deactive','positive-active','negative-active','negative-deactive']
+	- pilot01 = ['positive-active','positive-deactive','negative-deactive','neutral','negative-active']
+	- pilot02 = ['positive-deactive','neutral','negative-deactive','positive-active','negative-active']
+	- pilot03 = ['negative-deactive','positive-deactive','negative-active','positive-active','neutral']
+	- pilot04 = ['negative-deactive','positive-deactive','positive-active','negative-active']
+	- pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
 
 ## Convert
 - {'happy':'positive-active', 
@@ -59,20 +59,20 @@
  'angry':'neg-act', 'stress':'neg-act','sad':'neg-deact'}
  
 ## new class
-- - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
-- face001= ['neutral' 'pos-act' 'neg-deact' 'neg-act' 'pos-deact']
-- face002= ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
-- face003= ['neg-act' 'neg-deact' 'neutral' 'pos-act' 'pos-deact']
-- face004= ['neutral' 'pos-act' 'pos-deact' 'neg-act' 'neg-deact']
-- face005= ['neg-deact' 'pos-deact' 'pos-act' 'neutral' 'neg-act']
-- face006= ['neutral' 'neg-act' 'neg-deact' 'pos-deact' 'pos-act']
-- face007= ['neutral' 'neg-act' 'pos-act' 'pos-deact' 'neg-deact']
-- face008= ['neutral' 'pos-deact' 'pos-act' 'neg-act' 'neg-deact']
-- pilot01= ['pos-act' 'pos-deact' 'neg-deact' 'neutral' 'neg-act']
-- pilot02= ['pos-deact' 'neutral' 'neg-deact' 'pos-act' 'neg-act']
-- pilot03= ['neg-deact' 'pos-deact' 'neg-act' 'pos-act' 'neutral']
-- pilot04= ['neg-deact' 'pos-deact' 'pos-act' 'neg-act']
-- pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
+- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
+	- face001= ['neutral' 'pos-act' 'neg-deact' 'neg-act' 'pos-deact']
+	- face002= ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
+	- face003= ['neg-act' 'neg-deact' 'neutral' 'pos-act' 'pos-deact']
+	- face004= ['neutral' 'pos-act' 'pos-deact' 'neg-act' 'neg-deact']
+	- face005= ['neg-deact' 'pos-deact' 'pos-act' 'neutral' 'neg-act']
+	- face006= ['neutral' 'neg-act' 'neg-deact' 'pos-deact' 'pos-act']
+	- face007= ['neutral' 'neg-act' 'pos-act' 'pos-deact' 'neg-deact']
+	- face008= ['neutral' 'pos-deact' 'pos-act' 'neg-act' 'neg-deact']
+	- pilot01= ['pos-act' 'pos-deact' 'neg-deact' 'neutral' 'neg-act']
+	- pilot02= ['pos-deact' 'neutral' 'neg-deact' 'pos-act' 'neg-act']
+	- pilot03= ['neg-deact' 'pos-deact' 'neg-act' 'pos-act' 'neutral']
+	- pilot04= ['neg-deact' 'pos-deact' 'pos-act' 'neg-act']
+	- pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
 
 ## int class
 - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
