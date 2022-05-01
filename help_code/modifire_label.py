@@ -25,10 +25,11 @@ for i in range(len(x_name)):
 path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
 filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 
-convert = {'pos-act':0, 'pos-deact':1, 'neutral':2, 'neg-act':3, 'neg-deact':4}
+# convert1 = {'pos-act':0, 'pos-deact':1, 'neutral':2, 'neg-act':3, 'neg-deact':4}
+convert2 = {'pos-act':1, 'pos-deact':3, 'neutral':2, 'neg-act':0, 'neg-deact':4}
 for filename in filenames:
   y = np.load(path+filename)
-  for key, value in convert.items():
+  for key, value in convert2.items():
     # np.place(y, y==key, value)
     y[y == key] = value
   y = y.astype(int)
