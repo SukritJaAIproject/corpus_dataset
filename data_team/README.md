@@ -5,6 +5,7 @@
 
 - path_chula_x : 'drive/MyDrive/tech_own/x_data_team/' (original-datateam-dataset)
 	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+	
 ## label
 ### data_team
 - data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/'
@@ -88,3 +89,8 @@
 - pilot03= [4 1 3 0 2]
 - pilot04= [4 1 0 3]
 - pilot05= [4 2 1 0 3]
+
+
+## implementation
+x_train = 'drive/MyDrive/tech_own/x_data_team/' 
+y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
