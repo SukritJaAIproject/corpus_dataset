@@ -76,6 +76,7 @@
 
 ## int class
 - path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+
 	- face001= [2 0 4 3 1]
 	- face002= [2 3 0 4 1]
 	- face003= [3 4 2 0 1]
@@ -96,3 +97,5 @@
 	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 - y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
 	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+	
+	
