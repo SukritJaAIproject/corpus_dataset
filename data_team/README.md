@@ -75,20 +75,20 @@
 - pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
 
 ## int class
-	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
-- face001= [2 0 4 3 1]
-- face002= [2 3 0 4 1]
-- face003= [3 4 2 0 1]
-- face004= [2 0 1 3 4]
-- face005= [4 1 0 2 3]
-- face006= [2 3 4 1 0]
-- face007= [2 3 0 1 4]
-- face008= [2 1 0 3 4]
-- pilot01= [0 1 4 2 3]
-- pilot02= [1 2 4 0 3]
-- pilot03= [4 1 3 0 2]
-- pilot04= [4 1 0 3]
-- pilot05= [4 2 1 0 3]
+- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/'
+	- face001= [2 0 4 3 1]
+	- face002= [2 3 0 4 1]
+	- face003= [3 4 2 0 1]
+	- face004= [2 0 1 3 4]
+	- face005= [4 1 0 2 3]
+	- face006= [2 3 4 1 0]
+	- face007= [2 3 0 1 4]
+	- face008= [2 1 0 3 4]
+	- pilot01= [0 1 4 2 3]
+	- pilot02= [1 2 4 0 3]
+	- pilot03= [4 1 3 0 2]
+	- pilot04= [4 1 0 3]
+	- pilot05= [4 2 1 0 3]
 
 
 ## implementation
