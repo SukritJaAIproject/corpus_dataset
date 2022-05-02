@@ -27,7 +27,6 @@
 	- resnet18_copy4.ipynb : https://colab.research.google.com/drive/1yGp4AP5TF21ERm58hme69AluFiy8xH4u?usp=sharing
 	
 	
-## prepare dataset
-	-
+
 
 
