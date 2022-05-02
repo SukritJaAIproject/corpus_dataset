@@ -54,7 +54,7 @@
 	- convert = {'happy':0, 'relax':1, 'neutral':2, 'angry':3, 'sad':4}
  
 ## new class
-- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
+	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
 	- face001= ['neutral' 'pos-act' 'neg-deact' 'neg-act' 'pos-deact']
 	- face002= ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
 	- face003= ['neg-act' 'neg-deact' 'neutral' 'pos-act' 'pos-deact']
@@ -70,9 +70,9 @@
 	- pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
 
 ## int class
-- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert1/'
-- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert1/'
+	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
+	- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 	- face001= [2 0 4 3 1]
 	- face002= [2 3 0 4 1]
 	- face003= [3 4 2 0 1]
@@ -88,9 +88,9 @@
 	- pilot05= [4 2 1 0 3]
 
 ## implementation
-- x_train = 'drive/MyDrive/tech_own/x_data_team/' 
-	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-- y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-	- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-	
+	- x_train = 'drive/MyDrive/tech_own/x_data_team/' 
+		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+	- y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
+		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+		
 	
