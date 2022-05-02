@@ -38,7 +38,9 @@
 	- x_path, y_path = path_r+ 'relax_session_talk_x_skip5frame.npy', path_r+ 'relax_session_talk_y_skip5frame.npy'
 	- x_path, y_path = path_r+ 'sad_session_talk_x_skip5frame.npy', path_r+ 'sad_session_talk_y_skip5frame.npy'
 	- x_path, y_path = path_r+ 'stress_session_talk_x_skip5frame.npy', path_r+ 'stress_session_talk_y_skip5frame.npy'
+	
 	### skip5frame x_train
+		- path = 'drive/MyDrive/data/skip5frame/x/'
 		- anger_session_talk_x_skip5frame.npy  : (5812, 384, 384, 3)
 		- happy_session_talk_x_skip5frame.npy  : (2973, 384, 384, 3)
 		- relax_session_talk_x_skip5frame.npy  : (6733, 384, 384, 3)
@@ -46,13 +48,15 @@
 		- stress_session_talk_x_skip5frame.npy  : (2759, 384, 384, 3)
 		
 	### skip5frame y_train_numeric
+		- path = 'drive/MyDrive/data/skip5frame/y/numeric/'
 		- anger_session_talk_y_skip5frame_yn.npy:  (513, 1) [0 1 2 3] ***mistake
 		- happy_session_talk_y_skip5frame_yn.npy:  (2973, 1) [0 1 2]
 		- relax_session_talk_y_skip5frame_yn.npy:  (6733, 1) [0 1 2 3]
 		- sad_session_talk_y_skip5frame_yn.npy:  (513, 1) [0 1 2 3]
 		- stress_session_talk_y_skip5frame_yn.npy:  (2759, 1) [0 1 2 3 4]
 	
-	### skip5frame y_train_numeric
+	### skip5frame y_train_string
+		- path = 'drive/MyDrive/data/skip5frame/y/string/'
 		- anger_session_talk_y_skip5frame.npy :  (5812,) ['angry' 'happy' 'neutral' 'relax' 'sad']
 		- happy_session_talk_y_skip5frame.npy :  (2973,) ['happy' 'neutral' 'relax']
 		- relax_session_talk_y_skip5frame.npy :  (6733,) ['angry' 'happy' 'neutral' 'relax']
@@ -110,3 +114,11 @@
 	-	relax_session_talk_y.npy : (33665,) ['angry' 'happy' 'neutral' 'relax']
 	-	sad_session_talk_y.npy :  (2562,) ['happy' 'neutral' 'relax' 'sad']
 	-	stress_session_talk_y.npy : (13803,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+	
+## prepare small_size dataset
+	-	path = 'drive/MyDrive/data/small_size/x/'
+	-	a_h_r_sa_x.npy:  (16031, 384, 384, 3)
+	-	a_h_r_st_x.npy:  (18277, 384, 384, 3)
+	-	a_h_sa_st_x.npy:  (12057, 384, 384, 3)
+	-	a_r_sa_st_x.npy:  (15817, 384, 384, 3)
+	-	h_r_sa_st_x.npy:  (12978, 384, 384, 3)
