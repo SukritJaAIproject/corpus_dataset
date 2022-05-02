@@ -70,24 +70,22 @@
 
 ## int64 class
 	- path = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
-	- 01_pn= [2 3 0 1 4]
-	- 02_pn= [2 0 4 3 1]
-	- 03_pn= [0 2 3 1 4]
-	- 04_pn= [2 3 4 1 0]
-	- 05_pn= [3 4 2 0 1]
-	- 06_pn= [4 0 2 3 1]
-	- 07_pn= [2 1 3 4 0]
-	- 08_pn= [2 3 1 4 0]
-	- pilot01_pn= [1 3 4 0 2]
-	- pilot02_pn= [2 0 3 4 1]
-	- pilot03_pn= [2 4 3 1 0]
-	- pilot04_pn= [2 4 1 0 3]
-	- pilot05_pn= [2 0 1 4 3]
+	- 01 = [2 3 0 1 4]
+	- 02 = [2 0 4 3 1]
+	- 03 = [0 2 3 1 4]
+	- 04 = [2 3 4 1 0]
+	- 05 = [3 4 2 0 1]
+	- 06 = [4 0 2 3 1]
+	- 07 = [2 1 3 4 0]
+	- 08 = [2 3 1 4 0]
+	- pilot01 = [1 3 4 0 2]
+	- pilot02 = [2 0 3 4 1]
+	- pilot03 = [2 4 3 1 0]
+	- pilot04 = [2 4 1 0 3]
+	- pilot05 = [2 0 1 4 3]
 
 ## implementation
-	- x_train = 'drive/MyDrive/tech_own/x_data_team/' 
-		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-	- y_train = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-		
-	
+	- x_train = 'drive/MyDrive/tech_vdo/csv_psy/x_train/' 
+		- filenames =['01.npy', '02_v1.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+	- y_train = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
+		- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
