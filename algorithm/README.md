@@ -16,7 +16,9 @@
 ## Res50
 	- Train Res50
 		- CNN_Res50_train_update_11042656.ipynb : https://colab.research.google.com/drive/1ciYNnfNEIJ5oRX6UAVtJ20YYDNxLVBmb?usp=sharing
-	
+		- CNN_Res50_train_update_11042656_copy1.ipynb : https://colab.research.google.com/drive/11h4JBGOm-n6z6qyRiIjT3rPn7eMYDvqH?usp=sharing
+		- CNN_Res50_train_update_11042656_copy2.ipynb : https://colab.research.google.com/drive/1Ra4f8Ae9Q0TFcyTyOuzqejZeqEoynBp2?usp=sharing
+		- CNN_Res50_train_update_11042656_copy3.ipynb : https://colab.research.google.com/drive/1G74-oNQEgNuz-LtibtF_jQ80su-rxIsC?usp=sharing
 	
 ## resnet18
 	- resnet18_copy1.ipynb : https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
@@ -25,6 +27,7 @@
 	- resnet18_copy4.ipynb : https://colab.research.google.com/drive/1yGp4AP5TF21ERm58hme69AluFiy8xH4u?usp=sharing
 	
 	
-
+## prepare dataset
+	-
 
 
