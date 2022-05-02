@@ -58,3 +58,10 @@
 	-	a_r_sa_st_y_train_balance.npy : (25488,), [0 1 2 3 4]
 	-	a_h_r_st_y_train_balance_v1.npy : (28121,),  [0 1 2 3 4]
 	-	h_r_sa_st_y_train_balance.npy : (22158,), [0 1 2 3 4]
+	### balance y_test
+	-	a_h_r_sa_y_test_balance.npy : (8813,), [0 1 2 3 4]
+	-	a_h_sa_st_y_test_balance.npy, a_h_sa_st_y_test_balance_v1.npy : (5017,), [0 1 2 3 4], (5017,) [0 1 2 3 4]
+	-	a_r_sa_st_y_test_balance.npy : (8497,) [0 1 2 3 4]
+	-	a_h_r_st_y_test_balance_v1.npy : (9374,) [0 1 2 3 4]
+	-	h_r_sa_st_y_test_balance.npy :  (7387,) [0 1 2 3 4]
+ 
