@@ -54,7 +54,7 @@
 	-	h_r_sa_st_x_test_balance : (7387, 384, 384, 3)
 	### balance y_train
 	-	a_h_r_sa_y_train_balance.npy : (26437,), [0 1 2 3 4]
-	-	a_h_r_st_y_train_balance_v1.npy : (28121,),  [0 1 2 3 4]
 	-	a_h_sa_st_y_train_balance.npy, a_h_sa_st_y_train_balance_v1.npy : (15048,), [0 1 2 3 4] ,  (15048,), [0 1 2 3 4]
 	-	a_r_sa_st_y_train_balance.npy : (25488,), [0 1 2 3 4]
+	-	a_h_r_st_y_train_balance_v1.npy : (28121,),  [0 1 2 3 4]
 	-	h_r_sa_st_y_train_balance.npy : (22158,), [0 1 2 3 4]
