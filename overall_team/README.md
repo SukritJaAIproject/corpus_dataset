@@ -44,6 +44,20 @@
 		- relax_session_talk_x_skip5frame.npy  : (6733, 384, 384, 3)
 		- sad_session_talk_x_skip5frame.npy  : (513, 384, 384, 3)
 		- stress_session_talk_x_skip5frame.npy  : (2759, 384, 384, 3)
+		
+	### skip5frame y_train_numeric
+		- anger_session_talk_y_skip5frame_yn.npy:  (513, 1) [0 1 2 3] ***mistake
+		- happy_session_talk_y_skip5frame_yn.npy:  (2973, 1) [0 1 2]
+		- relax_session_talk_y_skip5frame_yn.npy:  (6733, 1) [0 1 2 3]
+		- sad_session_talk_y_skip5frame_yn.npy:  (513, 1) [0 1 2 3]
+		- stress_session_talk_y_skip5frame_yn.npy:  (2759, 1) [0 1 2 3 4]
+	
+	### skip5frame y_train_numeric
+		- anger_session_talk_y_skip5frame.npy :  (5812,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+		- happy_session_talk_y_skip5frame.npy :  (2973,) ['happy' 'neutral' 'relax']
+		- relax_session_talk_y_skip5frame.npy :  (6733,) ['angry' 'happy' 'neutral' 'relax']
+		- sad_session_talk_y_skip5frame.npy :  (513,) ['happy' 'neutral' 'relax' 'sad']
+		- stress_session_talk_y_skip5frame.npy :  (2759,) ['angry' 'happy' 'neutral' 'relax' 'sad']	
 	
 ## prepare balance dataset
 	### balance x_train
