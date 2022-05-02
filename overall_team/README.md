@@ -65,8 +65,8 @@
 	-	a_h_r_st_y_test_balance_v1.npy : (9374,) [0 1 2 3 4]
 	-	h_r_sa_st_y_test_balance.npy :  (7387,) [0 1 2 3 4]
  
-## prepare session_talk dataset 
-	### session_talk
+## prepare session_talk dataset
+	### session_talk x_train
 	-	path = 'drive/MyDrive/data/session_talk/x/'
 	-	path = 'D:/mu_dataset/' # local path
 	-	anger_session_talk_x.npy : (29083, 384, 384, 3)
@@ -75,4 +75,10 @@
 	-	sad_session_talk_x.npy  : (2562, 384, 384, 3)
 	-	stress_session_talk_x.npy : (13803, 384, 384, 3)
 	
-	### session_talk
+	### session_talk y_numeric
+	-	path = 'drive/MyDrive/data/session_talk/y_numeric/'
+	-	anger_session_talk_yn.npy : (29083, 1) [0 1 2 3 4]
+	-	happy_session_talk_yn.npy : (14877, 1) [0 1 2]
+	-	relax_session_talk_yn.npy : (33665, 1) [0 1 2 3]
+	-	sad_session_talk_yn.npy : 	(2562, 1) [0 1 2 3]
+	-	stress_session_talk_yn.npy : (13803, 1) [0 1 2 3 4]
