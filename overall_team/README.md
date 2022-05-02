@@ -39,7 +39,7 @@
 	- x_path, y_path = path_r+ 'sad_session_talk_x_skip5frame.npy', path_r+ 'sad_session_talk_y_skip5frame.npy'
 	- x_path, y_path = path_r+ 'stress_session_talk_x_skip5frame.npy', path_r+ 'stress_session_talk_y_skip5frame.npy'
 	
-## prepare dataset
+## prepare balance dataset
 	### balance x_train
 	-	a_h_r_sa_x_train_balance.npy : (26437, 384, 384, 3)
 	-	a_h_sa_st_x_train_balance.npy, a_h_sa_st_x_train_balance_v1.npy : (1809641704), (15048, 384, 384, 3)
@@ -65,3 +65,11 @@
 	-	a_h_r_st_y_test_balance_v1.npy : (9374,) [0 1 2 3 4]
 	-	h_r_sa_st_y_test_balance.npy :  (7387,) [0 1 2 3 4]
  
+## prepare session_talk dataset 
+	### session_talk
+	-	path = 'drive/MyDrive/data/session_talk/x/'
+	-	anger_session_talk_x.npy :    
+	-	happy_session_talk_x.npy : 
+	-	relax_session_talk_x.npy :
+	-	sad_session_talk_x.npy  :
+	-	stress_session_talk_x.npy :
