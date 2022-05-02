@@ -4,7 +4,7 @@
 	
 ## label
 	### psy_team
-	~~- psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/'~~
+	~~psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/'~~
 	- psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/numpy/'
 		- filenames = ['01.csv', '02.csv', '03.csv', '04.csv', '05.csv', '06.csv', '07.csv', '08.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 		- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
