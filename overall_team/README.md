@@ -116,9 +116,22 @@
 	-	stress_session_talk_y.npy : (13803,) ['angry' 'happy' 'neutral' 'relax' 'sad']
 	
 ## prepare small_size dataset
-	-	path = 'drive/MyDrive/data/small_size/x/'
-	-	a_h_r_sa_x.npy:  (16031, 384, 384, 3)
-	-	a_h_r_st_x.npy:  (18277, 384, 384, 3)
-	-	a_h_sa_st_x.npy:  (12057, 384, 384, 3)
-	-	a_r_sa_st_x.npy:  (15817, 384, 384, 3)
-	-	h_r_sa_st_x.npy:  (12978, 384, 384, 3)
+	### x_train
+		-	path = 'drive/MyDrive/data/small_size/x/'
+		-	a_h_r_sa_x.npy:  (16031, 384, 384, 3)
+		-	a_h_r_st_x.npy:  (18277, 384, 384, 3)
+		-	a_h_sa_st_x.npy:  (12057, 384, 384, 3)
+		-	a_r_sa_st_x.npy:  (15817, 384, 384, 3)
+		-	h_r_sa_st_x.npy:  (12978, 384, 384, 3)
+	### y_train_numeric
+		-	a_h_r_sa_yn.npy :  (16031, 1) [0 1 2 3 4]
+		-	a_h_r_st_yn.npy :  (18277, 1) [0 1 2 3 4]
+		-	a_h_sa_st_yn.npy :  (12057, 1) [0 1 2 3 4]
+		-	a_r_sa_st_yn.npy :  (15817, 1) [0 1 2 3 4]
+		-	h_r_sa_st_yn.npy :  (12978, 1) [0 1 2 3 4]
+	### y_train_string
+		-	a_h_r_sa_y.npy :  (16031,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+		-	a_h_r_st_y.npy :  (18277,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+		-	a_h_sa_st_y.npy :  (12057,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+		-	a_r_sa_st_y.npy :  (15817,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+		-	h_r_sa_st_y.npy :  (12978,) ['angry' 'happy' 'neutral' 'relax' 'sad']
