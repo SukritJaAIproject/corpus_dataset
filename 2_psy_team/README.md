@@ -4,7 +4,7 @@
 	
 ## label
 	### psy_team
-	~~psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/'~~
+	- psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/'
 	- psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/numpy/'
 		- filenames = ['01.csv', '02.csv', '03.csv', '04.csv', '05.csv', '06.csv', '07.csv', '08.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 		- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
@@ -12,15 +12,16 @@
 	- psy_team_pathy_v2 ='drive/MyDrive/tech_vdo/csv_psy/v2/numpy/'
 		- filenames = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
 		- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+		
 ## data shape
-	- face001.npy, x:  (35442, 256, 256, 3),  y:  (35442,)
-	- face002.npy, x:  (40428, 256, 256, 3),  y:  (40428,)
-	- face003.npy, x:  (13245, 256, 256, 3),  y:  (13245,)
-	- face004.npy, x:  (47732, 224, 224, 3),  y:  (47732,)
-	- face005.npy, x:  (14991, 126, 94, 3),    y:  (14991,)
-	- face006.npy, x:  (32621, 224, 224, 3),  y:  (32621,)
-	- face007.npy, x:  (47334, 224, 224, 3),  y:  (47334,)
-	- face008.npy, x:  (23840, 134, 98, 3),   y:  (23840,)
+	- 01.npy, x:  (35442, 256, 256, 3),  y:  (35442,)
+	- 02.npy, x:  (40428, 256, 256, 3),  y:  (40428,)
+	- 03.npy, x:  (13245, 256, 256, 3),  y:  (13245,)
+	- 04.npy, x:  (47732, 224, 224, 3),  y:  (47732,)
+	- 05.npy, x:  (14991, 126, 94, 3),    y:  (14991,)
+	- 06.npy, x:  (32621, 224, 224, 3),  y:  (32621,)
+	- 07.npy, x:  (47334, 224, 224, 3),  y:  (47334,)
+	- 08.npy, x:  (23840, 134, 98, 3),   y:  (23840,)
 	- pilot01.npy, x:  (13089, 224, 224, 3),   y:  (13089,)
 	- pilot02.npy, x:  (14831, 150, 150, 3),   y:  (14831,)
 	- pilot03.npy, x:  (40041, 150, 150, 3),   y:  (40041,)
