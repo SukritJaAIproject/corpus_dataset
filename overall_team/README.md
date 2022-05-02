@@ -68,8 +68,9 @@
 ## prepare session_talk dataset 
 	### session_talk
 	-	path = 'drive/MyDrive/data/session_talk/x/'
-	-	anger_session_talk_x.npy :    
-	-	happy_session_talk_x.npy : 
-	-	relax_session_talk_x.npy :
-	-	sad_session_talk_x.npy  :
-	-	stress_session_talk_x.npy :
+	-	path = 'D:/mu_dataset/' # local path
+	-	anger_session_talk_x.npy : (29083, 384, 384, 3)
+	-	happy_session_talk_x.npy : (14877, 384, 384, 3)
+	-	relax_session_talk_x.npy : (33665, 384, 384, 3)
+	-	sad_session_talk_x.npy  : (2562, 384, 384, 3)
+	-	stress_session_talk_x.npy : (13803, 384, 384, 3)
