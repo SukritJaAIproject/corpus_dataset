@@ -19,8 +19,12 @@
 	
 	
 ## resnet18
-	- resnet18_copy1.ipynb: https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
-
+	- resnet18_copy1.ipynb : https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
+	- resnet18_copy2.ipynb : https://colab.research.google.com/drive/1wZEoCh1s4W6plReSvoeXovojDMeZDepk?usp=sharing
+	- resnet18_copy3.ipynb : https://colab.research.google.com/drive/17o1wA5nudhTsxNZDfB4nLOQyxGJvurmt?usp=sharing
+	- resnet18_copy4.ipynb : https://colab.research.google.com/drive/1yGp4AP5TF21ERm58hme69AluFiy8xH4u?usp=sharing
+	
+	
 
 
 
