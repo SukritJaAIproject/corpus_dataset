@@ -53,19 +53,19 @@
  
 ## new class
 	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
-	- face001= ['neutral' 'pos-act' 'neg-deact' 'neg-act' 'pos-deact']
-	- face002= ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
-	- face003= ['neg-act' 'neg-deact' 'neutral' 'pos-act' 'pos-deact']
-	- face004= ['neutral' 'pos-act' 'pos-deact' 'neg-act' 'neg-deact']
-	- face005= ['neg-deact' 'pos-deact' 'pos-act' 'neutral' 'neg-act']
-	- face006= ['neutral' 'neg-act' 'neg-deact' 'pos-deact' 'pos-act']
-	- face007= ['neutral' 'neg-act' 'pos-act' 'pos-deact' 'neg-deact']
-	- face008= ['neutral' 'pos-deact' 'pos-act' 'neg-act' 'neg-deact']
-	- pilot01= ['pos-act' 'pos-deact' 'neg-deact' 'neutral' 'neg-act']
-	- pilot02= ['pos-deact' 'neutral' 'neg-deact' 'pos-act' 'neg-act']
-	- pilot03= ['neg-deact' 'pos-deact' 'neg-act' 'pos-act' 'neutral']
-	- pilot04= ['neg-deact' 'pos-deact' 'pos-act' 'neg-act']
-	- pilot05= ['neg-deact' 'neutral' 'pos-deact' 'pos-act' 'neg-act']
+	- 01 = ['neutral' 'pos-deact' 'neg-act' 'pos-act' 'neg-deact']
+	- 02 = ['neutral' 'neg-act' 'neg-deact' 'pos-deact' 'pos-act']
+	- 03 = ['neg-act' 'neutral' 'pos-deact' 'pos-act' 'neg-deact']
+	- 04 = ['neutral' 'pos-deact' 'neg-deact' 'pos-act' 'neg-act']
+	- 05 = ['pos-deact' 'neg-deact' 'neutral' 'neg-act' 'pos-act']
+	- 06 = ['neg-deact' 'neg-act' 'neutral' 'pos-deact' 'pos-act']
+	- 07 = ['neutral' 'pos-act' 'pos-deact' 'neg-deact' 'neg-act']
+	- 08 = ['neutral' 'pos-deact' 'pos-act' 'neg-deact' 'neg-act']
+	- pilot01 = ['pos-act' 'pos-deact' 'neg-deact' 'neg-act' 'neutral']
+	- pilot02 = ['neutral' 'neg-act' 'pos-deact' 'neg-deact' 'pos-act']
+	- pilot03 = ['neutral' 'neg-deact' 'pos-deact' 'pos-act' 'neg-act']
+	- pilot04 = ['neutral' 'neg-deact' 'pos-act' 'neg-act' 'pos-deact']
+	- pilot05 = ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
 
 ## int class
 	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert1/'
