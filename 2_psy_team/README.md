@@ -14,34 +14,34 @@
 		- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 		
 ## data shape
-	- 01.npy, x:  (35442, 256, 256, 3),  y:  (35442,)
-	- 02.npy, x:  (40428, 256, 256, 3),  y:  (40428,)
-	- 03.npy, x:  (13245, 256, 256, 3),  y:  (13245,)
-	- 04.npy, x:  (47732, 224, 224, 3),  y:  (47732,)
-	- 05.npy, x:  (14991, 126, 94, 3),    y:  (14991,)
-	- 06.npy, x:  (32621, 224, 224, 3),  y:  (32621,)
-	- 07.npy, x:  (47334, 224, 224, 3),  y:  (47334,)
-	- 08.npy, x:  (23840, 134, 98, 3),   y:  (23840,)
-	- pilot01.npy, x:  (13089, 224, 224, 3),   y:  (13089,)
-	- pilot02.npy, x:  (14831, 150, 150, 3),   y:  (14831,)
-	- pilot03.npy, x:  (40041, 150, 150, 3),   y:  (40041,)
-	- pilot04.npy, x:  (12491, 150, 150, 3),   y:  (12491,)
-	- pilot05.npy, x:  (16156, 150, 150, 3),   y:  (16156,)
+	- 01.npy, x: (34179, 256, 256, 3) y: (34179,)
+	- 02.npy, x: (47202, 224, 224, 3) y: (47202,)
+	- 03.npy, x: (12237, 224, 224, 3) y: (12237,)
+	- 04.npy, x: (49213, 224, 224, 3) y: (49213,)
+	- 05.npy, x: (18933, 126, 94, 3) y: (18933,)
+	- 06.npy, x: (31553, 224, 224, 3) y: (31553,)
+	- 07.npy, x: (61993, 224, 224, 3) y: (61993,)
+	- 08.npy, x: (21672, 134, 98, 3) y: (21672,)
+	- pilot01.npy, x: (15707, 224, 224, 3) y: (15707,)
+	- pilot02.npy, x: (14731, 150, 150, 3) y: (14731,)
+	- pilot03.npy, x: (31451, 150, 150, 3) y: (31451,)
+	- pilot04.npy, x: (11870, 150, 150, 3) y: (11870,)
+	- pilot05.npy, x: (9100, 150, 150, 3) y: (9100,)
 
 ## data class
-	- face001 = ['neutral', 'happy', 'sad', 'angry', 'stress', 'relax']
-	- face002 = ['neutral', 'stress','happy','sad','relax','angry']
-	- face003 = ['stress','sad','neutral','happy','relax','angry']
-	- face004 = ['neutral','happy','relax','stress','sad','angry']
-	- face005 = ['negative-deactive','positive-deactive','positive-active','neutral','negative-active']
-	- face006 = ['neutral','stress','sad','relax','happy','angry']
-	- face007 = ['neutral','stress','happy','relax','sad','angry']
-	- face008 = ['neutral','positive-deactive','positive-active','negative-active','negative-deactive']
-	- pilot01 = ['positive-active','positive-deactive','negative-deactive','neutral','negative-active']
-	- pilot02 = ['positive-deactive','neutral','negative-deactive','positive-active','negative-active']
-	- pilot03 = ['negative-deactive','positive-deactive','negative-active','positive-active','neutral']
-	- pilot04 = ['negative-deactive','positive-deactive','positive-active','negative-active']
-	- pilot05 = ['negative-deactive','neutral','positive-deactive','positive-active','negative-active']
+	- 01 =  ['angry' 'happy' 'neutral' 'relax' 'sad' 'stress']
+	- 02 =  ['angry' 'happy' 'neutral' 'relax' 'sad' 'stress']
+	- 03 =  ['angry' 'happy' 'neutral' 'relax' 'sad' 'stress']
+	- 04 =  ['angry' 'happy' 'neutral' 'relax' 'sad' 'stress']
+	- 05 =  ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
+	- 06 =  ['angry' 'happy' 'neutral' 'relax' 'sad' 'stress']
+	- 07 =  ['angry' 'happy' 'neutral' 'relax' 'sad' 'stress']
+	- 08 =  ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
+	- pilot01 = ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
+	- pilot02 = ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
+	- pilot03 = ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
+	- pilot04 = ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
+	- pilot05 = ['negative-active' 'negative-deactive' 'neutral' 'positive-active' 'positive-deactive']
 
 ## Convert
 	- {'happy':'positive-active', 'relax':'positive-deactive', 'neutral':'neutral', 'angry':'negative-active', 'stress':'negative-active','sad':'negative-deactive'}
@@ -70,7 +70,6 @@
 ## int class
 	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert1/'
 	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-	- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 	- face001= [2 0 4 3 1]
 	- face002= [2 3 0 4 1]
 	- face003= [3 4 2 0 1]
