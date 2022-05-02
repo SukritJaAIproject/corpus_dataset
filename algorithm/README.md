@@ -11,7 +11,8 @@
 		- visualize_attention_map_copy2.ipynb : https://colab.research.google.com/drive/1pH0JOj56_BotmQHanoNkBqKyV4zlhkmE?usp=sharing
 		- visualize_attention_map_copy1.ipynb : https://colab.research.google.com/drive/1IgJEEVwsRvC9BkaeVrvgT2tIbj7nulDt?usp=sharing
 		- visualize_attention_map (1).ipynb : https://colab.research.google.com/drive/1v_e11ra8cbTz99MsVXvSyzWerMPD-B9n?usp=sharing
-
+		- visualize_dataset.ipynb : https://colab.research.google.com/drive/1YpRRBIJIz3A2pL0bT9JOdXzLStBdXnLj?usp=sharing
+		- visualize_dataset_copy1.ipynb : https://colab.research.google.com/drive/11ckdyMu4yYTgfkNzP13owOtXIlFkaryl?usp=sharing
 
 ## Res50
 	- Train Res50
@@ -25,8 +26,3 @@
 	- resnet18_copy2.ipynb : https://colab.research.google.com/drive/1wZEoCh1s4W6plReSvoeXovojDMeZDepk?usp=sharing
 	- resnet18_copy3.ipynb : https://colab.research.google.com/drive/17o1wA5nudhTsxNZDfB4nLOQyxGJvurmt?usp=sharing
 	- resnet18_copy4.ipynb : https://colab.research.google.com/drive/1yGp4AP5TF21ERm58hme69AluFiy8xH4u?usp=sharing
-	
-	
-
-
-
