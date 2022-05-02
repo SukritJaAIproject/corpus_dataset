@@ -38,6 +38,6 @@
 		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 
 
-~~dddd~~
+~~psy_team_pathy_v1 = 'drive/MyDrive/tech_vdo/csv_psy/v1/'~~
 
 
