@@ -52,7 +52,8 @@
 	- convert = {'happy':0, 'relax':1, 'neutral':2, 'angry':3, 'sad':4}
  
 ## new class
-	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/'
+	- path = 'https://drive.google.com/drive/folders/1cNJ1ktbUMQFe0knqZgxLCfKJkLVO3OJK?usp=sharing
+	- path = 'drive/MyDrive/tech_vdo/csv_psy/v2/new_class_name/'
 	- 01 = ['neutral' 'pos-deact' 'neg-act' 'pos-act' 'neg-deact']
 	- 02 = ['neutral' 'neg-act' 'neg-deact' 'pos-deact' 'pos-act']
 	- 03 = ['neg-act' 'neutral' 'pos-deact' 'pos-act' 'neg-deact']
@@ -67,22 +68,21 @@
 	- pilot04 = ['neutral' 'neg-deact' 'pos-act' 'neg-act' 'pos-deact']
 	- pilot05 = ['neutral' 'neg-act' 'pos-act' 'neg-deact' 'pos-deact']
 
-## int class
-	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert1/'
-	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-	- face001= [2 0 4 3 1]
-	- face002= [2 3 0 4 1]
-	- face003= [3 4 2 0 1]
-	- face004= [2 0 1 3 4]
-	- face005= [4 1 0 2 3]
-	- face006= [2 3 4 1 0]
-	- face007= [2 3 0 1 4]
-	- face008= [2 1 0 3 4]
-	- pilot01= [0 1 4 2 3]
-	- pilot02= [1 2 4 0 3]
-	- pilot03= [4 1 3 0 2]
-	- pilot04= [4 1 0 3]
-	- pilot05= [4 2 1 0 3]
+## int64 class
+	- path = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
+	- 01_pn= [2 3 0 1 4]
+	- 02_pn= [2 0 4 3 1]
+	- 03_pn= [0 2 3 1 4]
+	- 04_pn= [2 3 4 1 0]
+	- 05_pn= [3 4 2 0 1]
+	- 06_pn= [4 0 2 3 1]
+	- 07_pn= [2 1 3 4 0]
+	- 08_pn= [2 3 1 4 0]
+	- pilot01_pn= [1 3 4 0 2]
+	- pilot02_pn= [2 0 3 4 1]
+	- pilot03_pn= [2 4 3 1 0]
+	- pilot04_pn= [2 4 1 0 3]
+	- pilot05_pn= [2 0 1 4 3]
 
 ## implementation
 	- x_train = 'drive/MyDrive/tech_own/x_data_team/' 
