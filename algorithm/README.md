@@ -14,14 +14,12 @@
 
 
 ## Res50
-- Train Res50
-	- CNN_Res50_train_update_11042656.ipynb : https://colab.research.google.com/drive/1ciYNnfNEIJ5oRX6UAVtJ20YYDNxLVBmb?usp=sharing
+	- Train Res50
+		- CNN_Res50_train_update_11042656.ipynb : https://colab.research.google.com/drive/1ciYNnfNEIJ5oRX6UAVtJ20YYDNxLVBmb?usp=sharing
 	
 	
-
-
-
-
+## resnet18
+	- resnet18_copy1.ipynb: https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
 
 
 
