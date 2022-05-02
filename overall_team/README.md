@@ -74,3 +74,5 @@
 	-	relax_session_talk_x.npy : (33665, 384, 384, 3)
 	-	sad_session_talk_x.npy  : (2562, 384, 384, 3)
 	-	stress_session_talk_x.npy : (13803, 384, 384, 3)
+	
+	### session_talk
