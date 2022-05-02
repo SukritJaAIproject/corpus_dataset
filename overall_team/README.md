@@ -82,3 +82,11 @@
 	-	relax_session_talk_yn.npy : (33665, 1) [0 1 2 3]
 	-	sad_session_talk_yn.npy : 	(2562, 1) [0 1 2 3]
 	-	stress_session_talk_yn.npy : (13803, 1) [0 1 2 3 4]
+	
+	### session_talk y_string
+	-	path = 'drive/MyDrive/data/session_talk/y_string/'	
+	-	anger_session_talk_y.npy : (29083,) ['angry' 'happy' 'neutral' 'relax' 'sad']
+	-	happy_session_talk_y.npy : (14877,) ['happy' 'neutral' 'relax']
+	-	relax_session_talk_y.npy : (33665,) ['angry' 'happy' 'neutral' 'relax']
+	-	sad_session_talk_y.npy :  (2562,) ['happy' 'neutral' 'relax' 'sad']
+	-	stress_session_talk_y.npy : (13803,) ['angry' 'happy' 'neutral' 'relax' 'sad']
