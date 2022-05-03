@@ -38,7 +38,7 @@
 		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 
 - face001
-	-![alt text](https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png?raw=true){:height="36px" width="36px"}
+	-![alt text](https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png?raw=true | width=100)
 - face002
 	-![alt text](https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face002.png?raw=true)
 - face003
