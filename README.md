@@ -14,6 +14,10 @@
 		- fn_x_pt =['01.npy', '02_v1.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 		- fn_y_pt =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 		- fn_csv_pt = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
+		
+	## data_team&psy_team
+		- path = 'drive/MyDrive/tech_own/4_matching/'
+		- fn_csv = ['face001_data_psy.csv', 'face002_data_psy.csv', 'face003_data_psy.csv', 'face004_data_psy.csv', 'face005_data_psy.csv', ' face006_data_psy.csv', 'face007_data_psy.csv', 'face008_data_psy.csv','pilot01_data_psy.csv', 'pilot02_data_psy.csv', 'pilot03_data_psy.csv', 'pilot04_data_psy.csv', 'pilot05_data_psy.csv']
 
 ## My code google colab
 	- voting : https://colab.research.google.com/drive/1zIy-U6n0fAivQVH4PAs6MhTAQRtUA3le?usp=sharing
