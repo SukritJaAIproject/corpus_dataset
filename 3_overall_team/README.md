@@ -62,6 +62,13 @@
 		- relax_session_talk_y_skip5frame.npy :  (6733,) ['angry' 'happy' 'neutral' 'relax']
 		- sad_session_talk_y_skip5frame.npy :  (513,) ['happy' 'neutral' 'relax' 'sad']
 		- stress_session_talk_y_skip5frame.npy :  (2759,) ['angry' 'happy' 'neutral' 'relax' 'sad']	
+		
+	### all emotion x_train 
+	- path = 'https://drive.google.com/drive/folders/1D_8ard8MODZoBapHbFuFtuU5vwUozN9N?usp=sharing
+	- ahrss_x_v1.npy, ahrss_y_v1.npy : (18790, 384, 384, 3) (18790,) , [0 1 2 3 4]
+	- ahrss_balance_x_train.npy, ahrss_balance_y_train.npy : (29313, 384, 384, 3) (29313,), [0 1 2 3 4]
+	- ahrss_balance_x_test.npy, ahrss_balance_y_test.npy : (9772, 384, 384, 3) (9772,) [0 1 2 3 4]
+	- ahrss_balance_x.npy, ahrss_balance_y.npy : (39085, 384, 384, 3) (39085,) [0 1 2 3 4]
 	
 ## prepare balance dataset
 	### balance x_train
