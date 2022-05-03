@@ -72,7 +72,6 @@
 ## int class
 	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert1/'
 	- path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-	- ![alt text](https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png?raw=true)
 	- face001= [2 0 4 3 1]
 	- face002= [2 3 0 4 1]
 	- face003= [3 4 2 0 1]
