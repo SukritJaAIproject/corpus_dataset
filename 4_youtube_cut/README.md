@@ -60,29 +60,29 @@
 
 ## Table2
 | no.  | Video  | lebel | 
-| :---:| :---: | :---: | 
-|  0  |  ClubFridayShow2  |  ['neutral' 'sad']  |
-|  1  |  Club_Friday_Show  |  ['sad' 'angry' 'neutral' 'relax' 'happy']  |
-|  2  |  Love_in_Depression  |  ['neutral' 'angry' 'sad' 'relax' 'happy']  |
-|  3  |  face10_01  |  ['sad' 'neutral' 'angry' 'relax' 'happy']  |
-|  4  |  face10_02  |  ['happy' 'neutral' 'relax' 'angry' 'sad']  |
-|  5  |  face1_01  |  ['neutral' 'happy' 'angry']  |
-|  6  |  face1_02  |  ['neutral' 'angry' 'happy']  |
-|  7  |  face1_03  |  ['angry' 'sad' 'neutral' 'relax' 'happy']  |
-|  8  |  face1_04  |  ['happy' 'relax' 'neutral' 'angry' 'sad']  |
-|  9  |  face1_05  |  ['neutral' 'happy' 'angry' 'relax']  |
-|  10  |  face2_01  |  ['neutral' 'relax' 'angry' 'happy' 'sad']  |
-|  11  |  face2_02  |  ['happy' 'relax' 'neutral' 'angry']  |
-|  12  |  face4  |  ['happy' 'relax' 'neutral' 'angry' 'sad']  |
-|  13  |  face5_01  |  ['happy' 'relax' 'angry' 'sad' 'neutral']  |
-|  14  |  face5_02  |  ['neutral' 'happy' 'angry' 'relax']  |
-|  15  |  face5_03  |  ['angry' 'sad']  |
-|  16  |  face6_01  |  ['relax' 'happy' 'neutral' 'angry' 'sad']  |
-|  17  |  face6_02  |  ['neutral' 'relax' 'happy' 'angry' 'sad']  |
-|  18  |  face7_01  |  ['happy' 'angry' 'neutral' 'relax']  |
-|  19  |  face7_02  |  ['neutral' 'relax']  |
-|  20  |  face9_1  |  ['neutral' 'happy' 'relax']  |
-|  21  |  face9_2  |  ['relax' 'neutral' 'angry' 'happy']  |
-|  22  |  face9_3  |  ['neutral' 'relax' 'angry' 'happy']  |
-|  23  |  face9_4  |  ['neutral' 'happy' 'angry' 'relax' 'sad']  |
-|  24  |  face9_5  |  ['neutral' 'angry' 'relax' 'happy']  |
+| :---:| :---: | :--- | 
+|  0  |  ClubFridayShow2  |  ['neutral', 'sad']  |
+|  1  |  Club_Friday_Show  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  2  |  Love_in_Depression  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  3  |  face10_01  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  4  |  face10_02  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  5  |  face1_01  |  ['angry', 'happy', 'neutral']  |
+|  6  |  face1_02  |  ['angry', 'happy', 'neutral']  |
+|  7  |  face1_03  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  8  |  face1_04  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  9  |  face1_05  |  ['angry', 'happy', 'neutral', 'relax']  |
+|  10  |  face2_01  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  11  |  face2_02  |  ['angry', 'happy', 'neutral', 'relax']  |
+|  12  |  face4  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  13  |  face5_01  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  14  |  face5_02  |  ['angry', 'happy', 'neutral', 'relax']  |
+|  15  |  face5_03  |  ['angry', 'sad']  |
+|  16  |  face6_01  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  17  |  face6_02  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  18  |  face7_01  |  ['angry', 'happy', 'neutral', 'relax']  |
+|  19  |  face7_02  |  ['neutral', 'relax']  |
+|  20  |  face9_1  |  ['happy', 'neutral', 'relax']  |
+|  21  |  face9_2  |  ['angry', 'happy', 'neutral', 'relax']  |
+|  22  |  face9_3  |  ['angry', 'happy', 'neutral', 'relax']  |
+|  23  |  face9_4  |  ['angry', 'happy', 'neutral', 'relax', 'sad']  |
+|  24  |  face9_5  |  ['angry', 'happy', 'neutral', 'relax']  |
