@@ -49,7 +49,7 @@
 
 
 | video  | img | video | img |
-| ------------- | :---: || ------------- || :---: |
+| :---:| :---: || :---:|| :---: |
 | `face001`  | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png" width="72">  | `git status` | List all *new or modified* files |
 | `face002`  | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face002.png" width="72">  | `git status` | List all *new or modified* files |
 | `face003` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face003.png" width="72"> | `git status` | List all *new or modified* files |
