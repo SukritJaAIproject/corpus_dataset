@@ -1,0 +1,11 @@
+video,time_start,time_end,label
+face7_02,0.00,0.03,neutral
+face7_02,0.54,0.58,neutral
+face7_02,1.02,1.19,neutral
+face7_02,1.02,1.31,relax
+face7_02,1.32,1.38,neutral
+face7_02,1.39,1.43,neutral
+face7_02,1.44,1.48,relax
+face7_02,1.49,2.44,neutral
+face7_02,2.45,3.01,neutral
+face7_02,3.11,3.25,relax
