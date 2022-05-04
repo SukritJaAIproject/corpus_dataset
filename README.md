@@ -64,3 +64,5 @@
 | `6`| `face006` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face006.png" width="72"> |`6`|`-` | - |
 | `7`| `face007` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face007.png" width="72"> |`7`|`-` | - |
 | `8`| `face008` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face008.png" width="72"> |`8`|`-` | -|
+
+Strikethrough uses two tildes. ~~Scratch this.~~
