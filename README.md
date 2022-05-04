@@ -1,19 +1,19 @@
 # Corpus_Dataset
 	## data_team
-		- x_dt = 'drive/MyDrive/tech_own/x_data_team/' 
-		- y_dt = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
-		- csv_dt = 'drive/MyDrive/tech_vdo/csv/'
-		- fn_x_dt =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-		- fn_y_dt =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-		- fn_csv_dt = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
+		- x_path = 'drive/MyDrive/tech_own/x_data_team/' 
+		- y_path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
+		- csv = 'drive/MyDrive/tech_vdo/csv/'
+		- x_data =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+		- y_data =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+		- csv = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 
 	## psy_team
-		- x_pt = 'drive/MyDrive/tech_vdo/csv_psy/x_train/' 
-		- y_pt = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
-		- csv_pt = 'drive/MyDrive/tech_vdo/csv_psy/v2/' 
-		- fn_x_pt =['01.npy', '02_v1.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-		- fn_y_pt =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-		- fn_csv_pt = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
+		- x_path = 'drive/MyDrive/tech_vdo/csv_psy/x_train/' 
+		- y_path = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
+		- csv = 'drive/MyDrive/tech_vdo/csv_psy/v2/' 
+		- x_data =['01.npy', '02_v1.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+		- y_data =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
+		- csv = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
 		
 	## data_team & psy_team
 		- path = 'drive/MyDrive/tech_own/4_matching/'
