@@ -25,10 +25,10 @@
 		- google drive link (.npy) : <https://drive.google.com/drive/folders/1pPuQYGpurh3sf9m__RjUMAY1bjTggGjw?usp=sharing> `เป็นไพล์ numpy ที่ใช้ในการฝึกสอนโมเดล`
 		- google drive link (.csv) : <https://drive.google.com/drive/folders/1TQgaqreAyTYGwWqAwUu4-XblzQ_ByVAP?usp=sharing> `เป็นไพล์ csv ที่ใช้อธิบายไพล์ numpy ด้านบน`
 
-## voting_dataset
+## Root path
 	- path_ku : 'drive/MyDrive/tech_vdo/'
 	- path_chula : 'drive/MyDrive/tech_own/'
-	- path_chula_x : 'drive/MyDrive/tech_own/x_data_team/' (original-datateam-dataset)
+		- x_path : 'drive/MyDrive/tech_own/x_data_team/' (original-datateam-dataset)
 		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 ## label
 	### psy_team
