@@ -31,7 +31,7 @@
 		- x_path : 'drive/MyDrive/tech_own/x_data_team/' (original-datateam-dataset)
 		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 ## label
-	### psy_team
+	> psy_team
 	- csv_path = 'drive/MyDrive/tech_vdo/csv_psy/v1/'
 	- npy_path = 'drive/MyDrive/tech_vdo/csv_psy/v1/numpy/'
 		- csv = ['01.csv', '02.csv', '03.csv', '04.csv', '05.csv', '06.csv', '07.csv', '08.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
@@ -40,7 +40,7 @@
 	- psy_team_pathy_v2 ='drive/MyDrive/tech_vdo/csv_psy/v2/numpy/'
 		- filenames = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
 		- filenames =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
-	### data_team
+	> data_team
 	- data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/'
 	- data_team_pathy_v1 = 'drive/MyDrive/tech_own/data_dict/med/v3/numpy/'
 		- filenames = ['01_256.csv', '02_256.csv', '03_256.csv', '04_224.csv', '05_94_126.csv', '06_224.csv', '07_224.csv', '08_98_134.csv', 'pilot01_224.csv', 'pilot02_150.csv', 'pilot03_150.csv', 'pilot04_150.csv', 'pilot05_150.csv']
