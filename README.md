@@ -1,5 +1,6 @@
 # Corpus_Dataset
-	## data_team
+	## data_team 
+		- เป็นชุดข้อมูลที่ถูก label ด้วยบุคคลทั่วไป (data team)
 		- x_path = 'drive/MyDrive/tech_own/x_data_team/' 
 		- y_path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
 		- csv = 'drive/MyDrive/tech_vdo/csv/'
@@ -8,6 +9,7 @@
 		- csv = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 
 	## psy_team
+		- เป็นชุดข้อมูลที่ถูก label ด้วยนักจิต (psy. team)
 		- x_path = 'drive/MyDrive/tech_vdo/csv_psy/x_train/' 
 		- y_path = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
 		- csv = 'drive/MyDrive/tech_vdo/csv_psy/v2/' 
