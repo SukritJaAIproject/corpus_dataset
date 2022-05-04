@@ -21,6 +21,7 @@
 		- fn_x_npy = ['face001_ai_x.npy', 'face002_ai_x.npy', 'face003_ai_x.npy', 'face004_ai_x.npy', 'face005_ai_x.npy', 'face006_ai_x.npy', 'face007_ai_x.npy', 'face008_ai_x.npy','pilot01_ai_x.npy', 'pilot02_ai_x.npy', 'pilot03_ai_x.npy', 'pilot04_ai_x.npy', 'pilot05_ai_x.npy']
 		- fn_y_npy = ['face001_ai_y.npy', 'face002_ai_y.npy', 'face003_ai_y.npy', 'face004_ai_y.npy', 'face005_ai_y.npy', 'face006_ai_y.npy', 'face007_ai_y.npy', 'face008_ai_y.npy','pilot01_ai_y.npy', 'pilot02_ai_y.npy', 'pilot03_ai_y.npy', 'pilot04_ai_y.npy', 'pilot05_ai_y.npy']
 		- google drive link : [GitHub Pages](https://drive.google.com/drive/folders/1pPuQYGpurh3sf9m__RjUMAY1bjTggGjw?usp=sharing)
+		[I'm an inline-style link](https://drive.google.com/drive/folders/1pPuQYGpurh3sf9m__RjUMAY1bjTggGjw?usp=sharing)
 
 ## voting_dataset
 	- path_ku : 'drive/MyDrive/tech_vdo/'
