@@ -62,27 +62,27 @@
 | no.  | Video  | lebel | 
 | :---:| :---: | :---: | 
 |  0  |  ClubFridayShow2  |  ['neutral' 'sad']  |
-|  1  |  Club_Friday_Show  |  ['sad' 'stress' 'neutral' 'relax' 'happy']  |
-|  2  |  Love_in_Depression  |  ['neutral' 'stress' 'sad' 'relax' 'happy' 'angry']  |
-|  3  |  face10_01  |  ['sad' 'neutral' 'stress' 'relax' 'happy' 'angry']  |
-|  4  |  face10_02  |  ['happy' 'neutral' 'relax' 'stress' 'angry' 'sad']  |
-|  5  |  face1_01  |  ['neutral' 'มีความสุข' 'มีความสุุข' 'เครียด']  |
-|  6  |  face1_02  |  ['neutral' 'เครียด' 'โกรธ' 'มีความสุข']  |
-|  7  |  face1_03  |  ['เครียด' 'เศร้า' 'neutral' 'ผ่อนคลาย' 'มีความสุข']  |
-|  8  |  face1_04  |  ['มีความสุข' 'ผ่อนคลาย' 'neutral' 'เครียด' 'เศร้า' 'โกรธ']  |
-|  9  |  face1_05  |  ['neutral' 'มีความสุข' 'เครียด' 'โกรธ' 'ผ่อนคลาย']  |
-|  10  |  face2_01  |  ['neutral' 'relax' 'stress' 'happy' 'sad' 'angry']  |
-|  11  |  face2_02  |  ['happy' 'relax' 'neutral' 'stress' 'angry']  |
-|  12  |  face4  |  ['มีความสุข' 'ผ่อนคลาย' 'neutral' 'เครียด' 'ตื่นเต้น' 'เศร้า' 'โกรธ']  |
-|  13  |  face5_01  |  ['happy' 'relax' 'stress' 'sad' 'neutral' 'angry']  |
-|  14  |  face5_02  |  ['neutral' 'happy' 'stress' 'relax' 'angry']  |
-|  15  |  face5_03  |  ['stress' 'sad']  |
-|  16  |  face6_01  |  ['relax' 'happy' 'neutral' 'stress' 'sad' 'angry']  |
-|  17  |  face6_02  |  ['neutral' 'relax' 'happy' 'stress' 'sad' 'angry' 'neutral ']  |
-|  18  |  face7_01  |  ['happy' 'stress' 'neutral' 'relax']  |
+|  1  |  Club_Friday_Show  |  ['sad' 'angry' 'neutral' 'relax' 'happy']  |
+|  2  |  Love_in_Depression  |  ['neutral' 'angry' 'sad' 'relax' 'happy']  |
+|  3  |  face10_01  |  ['sad' 'neutral' 'angry' 'relax' 'happy']  |
+|  4  |  face10_02  |  ['happy' 'neutral' 'relax' 'angry' 'sad']  |
+|  5  |  face1_01  |  ['neutral' 'happy' 'angry']  |
+|  6  |  face1_02  |  ['neutral' 'angry' 'happy']  |
+|  7  |  face1_03  |  ['angry' 'sad' 'neutral' 'relax' 'happy']  |
+|  8  |  face1_04  |  ['happy' 'relax' 'neutral' 'angry' 'sad']  |
+|  9  |  face1_05  |  ['neutral' 'happy' 'angry' 'relax']  |
+|  10  |  face2_01  |  ['neutral' 'relax' 'angry' 'happy' 'sad']  |
+|  11  |  face2_02  |  ['happy' 'relax' 'neutral' 'angry']  |
+|  12  |  face4  |  ['happy' 'relax' 'neutral' 'angry' 'sad']  |
+|  13  |  face5_01  |  ['happy' 'relax' 'angry' 'sad' 'neutral']  |
+|  14  |  face5_02  |  ['neutral' 'happy' 'angry' 'relax']  |
+|  15  |  face5_03  |  ['angry' 'sad']  |
+|  16  |  face6_01  |  ['relax' 'happy' 'neutral' 'angry' 'sad']  |
+|  17  |  face6_02  |  ['neutral' 'relax' 'happy' 'angry' 'sad']  |
+|  18  |  face7_01  |  ['happy' 'angry' 'neutral' 'relax']  |
 |  19  |  face7_02  |  ['neutral' 'relax']  |
 |  20  |  face9_1  |  ['neutral' 'happy' 'relax']  |
-|  21  |  face9_2  |  ['relax' 'neutral' 'stress' 'happy']  |
-|  22  |  face9_3  |  ['neutral' 'relax' 'stress' 'happy']  |
-|  23  |  face9_4  |  ['neutral' 'happy' 'stress' 'relax' 'sad' 'angry']  |
-|  24  |  face9_5  |  ['neutral' 'stress' 'relax' 'happy']  |
+|  21  |  face9_2  |  ['relax' 'neutral' 'angry' 'happy']  |
+|  22  |  face9_3  |  ['neutral' 'relax' 'angry' 'happy']  |
+|  23  |  face9_4  |  ['neutral' 'happy' 'angry' 'relax' 'sad']  |
+|  24  |  face9_5  |  ['neutral' 'angry' 'relax' 'happy']  |
