@@ -50,27 +50,34 @@
 
 | video  | img |
 | ------------- | ------------- |
-| face001  | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png" width="72">  |
-| Content Cell  | Content Cell  |
+| `face001`  | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png" width="72">  |
+| `face002`  | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face002.png" width="72">  |
+| `face003` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face003.png" width="72"> |
+| `face004` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face004.png" width="72"> |
+| `face005` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face005.png" width="72"> |
+| `face006` | <img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face006.png" width="72">	 |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
 
 
 
-
-
-
-
-- face001
-	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face001.png" width="72">
-- face002
-	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face002.png" width="72">
-- face003
-	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face003.png" width="72">
-- face004
-	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face004.png" width="72">
-- face005
-	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face005.png" width="72">
-- face006
-	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face006.png" width="72">	
+- 
+	-	
+- 
+	-	
+- 
+	-	
+- 
+	-	
 - face007
 	-	<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/img/face007.png" width="72">	
 - face008
