@@ -26,3 +26,33 @@
 				
 ## Code
 	- Youtube_cut_corpus.ipynb : https://colab.research.google.com/drive/165qJ-q3Ai2dgxSJWA-pdHvIzlm3MNOtx?usp=sharing
+	
+	
+## Table
+| no.  | Video  | lebel | 
+| :---:| :---: | :---: |
+|  0  |  ClubFridayShow2.mp4  |  Club_Friday_Show_dow.csv  |
+|  1  |  Club_Friday_Show.mp4  |  Club_Friday_Show_pat.csv  |
+|  2  |  Love_in_Depression.mp4  |  Love_in_Depression.csv  |
+|  3  |  face10_01.mp4  |  face10_01.csv  |
+|  4  |  face10_02.mp4  |  face10_02.csv  |
+|  5  |  face1_01.mp4  |  face1_01.csv  |
+|  6  |  face1_02.mp4  |  face1_02.csv  |
+|  7  |  face1_03.mp4  |  face1_03.csv  |
+|  8  |  face1_04.mp4  |  face1_04.csv  |
+|  9  |  face1_05.mp4  |  face1_05.csv  |
+|  10  |  face2_01.mp4  |  face2_01.csv  |
+|  11  |  face2_02.mp4  |  face2_02.csv  |
+|  12  |  face4.mp4  |  face4.csv  |
+|  13  |  face5_01.mp4  |  face5_01.csv  |
+|  14  |  face5_02.mp4  |  face5_02.csv  |
+|  15  |  face5_03.mp4  |  face5_03.csv  |
+|  16  |  face6_01.mp4  |  face6_01.csv  |
+|  17  |  face6_02.mp4  |  face6_02.csv  |
+|  18  |  face7_01.mp4  |  face7_01.csv  |
+|  19  |  face7_02.mp4  |  face7_02.csv  |
+|  20  |  face9_1.mp4  |  face9_1.csv  |
+|  21  |  face9_2.mp4  |  face9_2.csv  |
+|  22  |  face9_3.mp4  |  face9_3.csv  |
+|  23  |  face9_4.mp4  |  face9_4.csv  |
+|  24  |  face9_5.mp4  |  face9_5.csv  |
