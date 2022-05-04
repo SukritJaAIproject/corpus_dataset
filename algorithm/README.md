@@ -20,6 +20,7 @@
 		- CNN_Res50_train_update_11042656_copy1.ipynb : https://colab.research.google.com/drive/11h4JBGOm-n6z6qyRiIjT3rPn7eMYDvqH?usp=sharing
 		- CNN_Res50_train_update_11042656_copy2.ipynb : https://colab.research.google.com/drive/1Ra4f8Ae9Q0TFcyTyOuzqejZeqEoynBp2?usp=sharing
 		- CNN_Res50_train_update_11042656_copy3.ipynb : https://colab.research.google.com/drive/1G74-oNQEgNuz-LtibtF_jQ80su-rxIsC?usp=sharing
+		- Resnet50_v2.ipynb : https://colab.research.google.com/drive/1c2Mpx2QzHY9f-i1o_fzInqevREI4lvqc?usp=sharing
 	
 ## resnet18
 	- resnet18_copy1.ipynb : https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
