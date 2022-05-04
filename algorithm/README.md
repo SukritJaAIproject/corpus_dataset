@@ -39,6 +39,9 @@
 
 ## voting by ai
 	- voting_by_ai : https://colab.research.google.com/drive/17X6iUJ9vy_bbeZ4WmyYsI3TPchpf0Izu?usp=sharing
+	- voting_by_ai_copy1.ipynb : https://colab.research.google.com/drive/1KY9rkTI9GgWuJp6_rwjJiQzmkVdooNFr?usp=sharing
+	- voting_by_ai_copy2.ipynb : https://colab.research.google.com/drive/1Neyjhr2eGNP7nlH9XYlDcV-G204Q5hle?usp=sharing
 	- voting_by_ai_copy3.ipynb : https://colab.research.google.com/drive/145y0kU6hzIuvmQEhZanWMt0TCwJmE66K?usp=sharing
 	- voting_by_ai_copy4.ipynb : https://colab.research.google.com/drive/1ZMKLVd2IF154VAOdWPpFjEDJcNN74UlZ?usp=sharing
-	- voting_by_ai_copy1.ipynb : https://colab.research.google.com/drive/1KY9rkTI9GgWuJp6_rwjJiQzmkVdooNFr?usp=sharing
+	
+	
