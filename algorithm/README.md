@@ -6,7 +6,7 @@
 	- ViT-pytorch-main#2.ipynb : https://colab.research.google.com/drive/10ZcA_l50iNftl__kVPI1YC6Wfxz2IPR9?usp=sharing
 	- ViT-pytorch-v2#1.ipynb : https://colab.research.google.com/drive/174_-6czulAr6HePWCawVbzdYAlk7vqGs?usp=sharing
 	- ViT-pytorch-v2#2.ipynb : https://colab.research.google.com/drive/1t6Pydeo6a6HCX0uAdK1-73xrW8KzJpIO?usp=sharing
-	## visualize
+	### visualize
 		- visualize_attention_map_copy3.ipynb : https://colab.research.google.com/drive/1ZdTW1E6-zDE3pwwlrRHec2cHy21GKrap?usp=sharing
 		- visualize_attention_map_copy2.ipynb : https://colab.research.google.com/drive/1pH0JOj56_BotmQHanoNkBqKyV4zlhkmE?usp=sharing
 		- visualize_attention_map_copy1.ipynb : https://colab.research.google.com/drive/1IgJEEVwsRvC9BkaeVrvgT2tIbj7nulDt?usp=sharing
@@ -27,3 +27,18 @@
 	- resnet18_copy3.ipynb : https://colab.research.google.com/drive/17o1wA5nudhTsxNZDfB4nLOQyxGJvurmt?usp=sharing
 	- resnet18_copy4.ipynb : https://colab.research.google.com/drive/1yGp4AP5TF21ERm58hme69AluFiy8xH4u?usp=sharing
 	- Copy of resnet18_copy1.ipynb : https://colab.research.google.com/drive/1802TPL-UJw51YXam5RE4AA5r0Q12S5Ln?usp=sharing
+
+## My code google colab
+	- voting : https://colab.research.google.com/drive/1zIy-U6n0fAivQVH4PAs6MhTAQRtUA3le?usp=sharing
+	- voting_copy1 : https://colab.research.google.com/drive/11Y6P3SxVDo9FMtedNvqDcj5wRBoIBsrO?usp=sharing
+	- voting_copy2 : https://colab.research.google.com/drive/1q6bzEmZ7qYYO1KtRy-Yqbz4Q-82-Xg-L?usp=sharing
+	- voting_copy3 : https://colab.research.google.com/drive/1qysiNJGI0NFLW_CQxKJXWYUtjW4laxUE?usp=sharing
+	- voting_copy4 : https://colab.research.google.com/drive/1AqaAnw55QKoDg__WazB4hNgck1IZGdfh?usp=sharing
+	- voting_copy5 : https://colab.research.google.com/drive/1wOr9EslPoRxSJ99mo2BojTGcD1u1gKHP?usp=sharing
+	- voting_copy6 : https://colab.research.google.com/drive/1AjoGPEzgoz_Tt82bDFFaDFfaRM3STv8K?usp=sharing
+
+## voting by ai
+	- voting_by_ai : https://colab.research.google.com/drive/17X6iUJ9vy_bbeZ4WmyYsI3TPchpf0Izu?usp=sharing
+	- voting_by_ai_copy3.ipynb : https://colab.research.google.com/drive/145y0kU6hzIuvmQEhZanWMt0TCwJmE66K?usp=sharing
+	- voting_by_ai_copy4.ipynb : https://colab.research.google.com/drive/1ZMKLVd2IF154VAOdWPpFjEDJcNN74UlZ?usp=sharing
+	- voting_by_ai_copy1.ipynb : https://colab.research.google.com/drive/1KY9rkTI9GgWuJp6_rwjJiQzmkVdooNFr?usp=sharing
