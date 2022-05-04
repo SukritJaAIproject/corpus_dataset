@@ -1,4 +1,4 @@
-# corpus_dataset
+# Corpus_Dataset
 	## data_team
 		- x_dt = 'drive/MyDrive/tech_own/x_data_team/' 
 		- y_dt = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
@@ -20,18 +20,6 @@
 		- fn_csv = ['face001_data_psy.csv', 'face002_data_psy.csv', 'face003_data_psy.csv', 'face004_data_psy.csv', 'face005_data_psy.csv', ' face006_data_psy.csv', 'face007_data_psy.csv', 'face008_data_psy.csv','pilot01_data_psy.csv', 'pilot02_data_psy.csv', 'pilot03_data_psy.csv', 'pilot04_data_psy.csv', 'pilot05_data_psy.csv']
 		- fn_x_npy = ['face001_ai_x.npy', 'face002_ai_x.npy', 'face003_ai_x.npy', 'face004_ai_x.npy', 'face005_ai_x.npy', 'face006_ai_x.npy', 'face007_ai_x.npy', 'face008_ai_x.npy','pilot01_ai_x.npy', 'pilot02_ai_x.npy', 'pilot03_ai_x.npy', 'pilot04_ai_x.npy', 'pilot05_ai_x.npy']
 		- fn_y_npy = ['face001_ai_y.npy', 'face002_ai_y.npy', 'face003_ai_y.npy', 'face004_ai_y.npy', 'face005_ai_y.npy', 'face006_ai_y.npy', 'face007_ai_y.npy', 'face008_ai_y.npy','pilot01_ai_y.npy', 'pilot02_ai_y.npy', 'pilot03_ai_y.npy', 'pilot04_ai_y.npy', 'pilot05_ai_y.npy']
-
-## My code google colab
-	- voting : https://colab.research.google.com/drive/1zIy-U6n0fAivQVH4PAs6MhTAQRtUA3le?usp=sharing
-	- voting_copy1 : https://colab.research.google.com/drive/11Y6P3SxVDo9FMtedNvqDcj5wRBoIBsrO?usp=sharing
-	- voting_copy2 : https://colab.research.google.com/drive/1q6bzEmZ7qYYO1KtRy-Yqbz4Q-82-Xg-L?usp=sharing
-	- voting_copy3 : https://colab.research.google.com/drive/1qysiNJGI0NFLW_CQxKJXWYUtjW4laxUE?usp=sharing
-	- voting_copy4 : https://colab.research.google.com/drive/1AqaAnw55QKoDg__WazB4hNgck1IZGdfh?usp=sharing
-	- voting_copy5 : https://colab.research.google.com/drive/1wOr9EslPoRxSJ99mo2BojTGcD1u1gKHP?usp=sharing
-	- voting_copy6 : https://colab.research.google.com/drive/1AjoGPEzgoz_Tt82bDFFaDFfaRM3STv8K?usp=sharing
-
-## voting by ai
-	- voting_by_ai : https://colab.research.google.com/drive/17X6iUJ9vy_bbeZ4WmyYsI3TPchpf0Izu?usp=sharing
 
 ## voting_dataset
 	- path_ku : 'drive/MyDrive/tech_vdo/'
