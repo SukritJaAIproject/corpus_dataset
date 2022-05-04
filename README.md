@@ -1,5 +1,5 @@
 # Corpus_Dataset
-	## data_team 
+	## **data_team**
 		- เป็นชุดข้อมูลที่ถูก label ด้วยบุคคลทั่วไป (data team)
 		- x_path = 'drive/MyDrive/tech_own/x_data_team/' 
 		- y_path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
