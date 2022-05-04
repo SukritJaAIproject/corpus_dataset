@@ -30,7 +30,8 @@
 <style scoped>
 table {
   font-size: 13px;
-}	
+}
+</style>
 ## Table
 | no.  | Video  | lebel | shape | frames | FPS | 
 | :---:| :---: | :---: | :---: | :---: | :---: |
