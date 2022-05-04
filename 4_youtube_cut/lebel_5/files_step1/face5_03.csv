@@ -1,0 +1,6 @@
+video,time_start,time_end,label,start_sec,end_sec,start_frame,end_frame
+face5_03,8.19,8.29,stress,499,509,12475,12725
+face5_03,8.03,8.44,sad,483,524,12075,13100
+face5_03,8.57,8.59,sad,537,539,13425,13475
+face5_03,9.15,9.16,stress,555,556,13875,13900
+face5_03,9.16,9.17,sad,556,557,13900,13925
