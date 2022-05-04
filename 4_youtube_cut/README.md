@@ -28,9 +28,7 @@
 	- Youtube_cut_corpus.ipynb : https://colab.research.google.com/drive/165qJ-q3Ai2dgxSJWA-pdHvIzlm3MNOtx?usp=sharing
 	
 <style scoped>
-table {
-  font-size: 13px;
-}
+table { font-size: 13px;}
 </style>
 ## Table
 | no.  | Video  | lebel | shape | frames | FPS | 
