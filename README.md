@@ -32,7 +32,7 @@
 		- filenames =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 ## label
 	### psy_team
-	- csv_path = 'drive/MyDrive/tech_vdo/csv_psy/v1/'
+	~~csv_path = 'drive/MyDrive/tech_vdo/csv_psy/v1/'~~
 	- npy_path = 'drive/MyDrive/tech_vdo/csv_psy/v1/numpy/'
 		- csv = ['01.csv', '02.csv', '03.csv', '04.csv', '05.csv', '06.csv', '07.csv', '08.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 		- npy =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
