@@ -15,11 +15,12 @@
 		- fn_y_pt =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 		- fn_csv_pt = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
 		
-	## data_team&psy_team
+	## data_team & psy_team
 		- path = 'drive/MyDrive/tech_own/4_matching/'
 		- fn_csv = ['face001_data_psy.csv', 'face002_data_psy.csv', 'face003_data_psy.csv', 'face004_data_psy.csv', 'face005_data_psy.csv', ' face006_data_psy.csv', 'face007_data_psy.csv', 'face008_data_psy.csv','pilot01_data_psy.csv', 'pilot02_data_psy.csv', 'pilot03_data_psy.csv', 'pilot04_data_psy.csv', 'pilot05_data_psy.csv']
 		- fn_x_npy = ['face001_ai_x.npy', 'face002_ai_x.npy', 'face003_ai_x.npy', 'face004_ai_x.npy', 'face005_ai_x.npy', 'face006_ai_x.npy', 'face007_ai_x.npy', 'face008_ai_x.npy','pilot01_ai_x.npy', 'pilot02_ai_x.npy', 'pilot03_ai_x.npy', 'pilot04_ai_x.npy', 'pilot05_ai_x.npy']
 		- fn_y_npy = ['face001_ai_y.npy', 'face002_ai_y.npy', 'face003_ai_y.npy', 'face004_ai_y.npy', 'face005_ai_y.npy', 'face006_ai_y.npy', 'face007_ai_y.npy', 'face008_ai_y.npy','pilot01_ai_y.npy', 'pilot02_ai_y.npy', 'pilot03_ai_y.npy', 'pilot04_ai_y.npy', 'pilot05_ai_y.npy']
+		- google drive link : https://drive.google.com/drive/folders/1pPuQYGpurh3sf9m__RjUMAY1bjTggGjw?usp=sharing
 
 ## voting_dataset
 	- path_ku : 'drive/MyDrive/tech_vdo/'
