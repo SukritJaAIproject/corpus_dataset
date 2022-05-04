@@ -1,5 +1,5 @@
 # Corpus_Dataset
-	## data_team
+	## Data team
 		- เป็นชุดข้อมูลที่ถูก label ด้วยบุคคลทั่วไป (data team)
 		- x_path = 'drive/MyDrive/tech_own/x_data_team/' 
 		- y_path = 'drive/MyDrive/tech_vdo/csv/numpy/new_class_name/int_class/convert2/'
@@ -8,7 +8,7 @@
 		- y_data =['face001.npy', 'face002.npy', 'face003.npy', 'face004.npy', 'face005.npy', 'face006.npy', 'face007.npy', 'face008.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 		- csv = ['face001.csv', 'face002.csv', 'face003.csv', 'face004.csv', 'face005.csv', 'face006.csv', 'face007.csv', 'face008.csv', 'pilot01.csv', 'pilot02.csv', 'pilot03.csv', 'pilot04.csv', 'pilot05.csv']
 
-	## psy_team
+	## Psy. team
 		- เป็นชุดข้อมูลที่ถูก label ด้วยนักจิต (psy. team)
 		- x_path = 'drive/MyDrive/tech_vdo/csv_psy/x_train/' 
 		- y_path = 'drive/MyDrive/tech_vdo/csv_psy/v2/convert2/'
@@ -17,7 +17,7 @@
 		- y_data =['01.npy', '02.npy', '03.npy', '04.npy', '05.npy', '06.npy', '07.npy', '08.npy', 'pilot01.npy', 'pilot02.npy', 'pilot03.npy', 'pilot04.npy', 'pilot05.npy']
 		- csv = ['01_df.csv', '02_df.csv', '03_df.csv', '04_df.csv', '05_df.csv', '06_df.csv', '07_df.csv', '08_df.csv', 'pilot01_df.csv', 'pilot02_df.csv', 'pilot03_df.csv', 'pilot04_df.csv', 'pilot05_df.csv']
 		
-	## data_team & psy_team
+	## Data team & Psy. team
 		- path = 'drive/MyDrive/tech_own/4_matching/'
 		- csv = ['face001_data_psy.csv', 'face002_data_psy.csv', 'face003_data_psy.csv', 'face004_data_psy.csv', 'face005_data_psy.csv', ' face006_data_psy.csv', 'face007_data_psy.csv', 'face008_data_psy.csv','pilot01_data_psy.csv', 'pilot02_data_psy.csv', 'pilot03_data_psy.csv', 'pilot04_data_psy.csv', 'pilot05_data_psy.csv']
 		- x_data = ['face001_ai_x.npy', 'face002_ai_x.npy', 'face003_ai_x.npy', 'face004_ai_x.npy', 'face005_ai_x.npy', 'face006_ai_x.npy', 'face007_ai_x.npy', 'face008_ai_x.npy','pilot01_ai_x.npy', 'pilot02_ai_x.npy', 'pilot03_ai_x.npy', 'pilot04_ai_x.npy', 'pilot05_ai_x.npy']
