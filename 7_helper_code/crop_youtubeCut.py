@@ -1,7 +1,10 @@
 import cv2
 import numpy as np
+import pandas as pd
 import mediapipe as mp
 from tqdm import tqdm
+
+path = "D:/YoutubeCut/"
 
 def calc_bounding_rect(image, landmarks):
     image_width, image_height = image.shape[1], image.shape[0]
@@ -13,6 +16,13 @@ def calc_bounding_rect(image, landmarks):
         landmark_array = np.append(landmark_array, landmark_point, axis=0)
     x, y, w, h = cv2.boundingRect(landmark_array)
     return [x, y, x + w, y + h]
+    
+def caminfo(vdo_name):
+  cap = cv2.VideoCapture(vdo_name)
+  total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+  width, height  = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH)), int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+  fps    = cap.get(cv2.CAP_PROP_FPS)
+  return total_frames, fps
 
 max_num_faces = 1
 refine_landmarks = True
@@ -27,7 +37,6 @@ face_mesh = mp_face_mesh.FaceMesh(max_num_faces=max_num_faces,
 
 filepath = "C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/lebel/files/lasted_version/v1/Club_Friday_Show.csv"
 vdopath = "C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/videos/videos/Club_Friday_Show.mp4"
-
 
 df = pd.read_csv(filepath)
 T_frames, fps = caminfo(vdopath)
@@ -58,5 +67,5 @@ for i in tqdm(range(df.shape[0])):
         print("error out")
           
 frames_ar, labels_ar = np.array(frames), np.array(labels)
-np.save('Club_Friday_Show_x.npy', frames_ar)
-np.save('Club_Friday_Show_y.npy', labels_ar)
+np.save(path+'Club_Friday_Show_x.npy', frames_ar)
+np.save(path+'Club_Friday_Show_y.npy', labels_ar)
