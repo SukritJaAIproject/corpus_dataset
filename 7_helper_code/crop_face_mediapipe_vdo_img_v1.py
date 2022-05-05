@@ -8,13 +8,13 @@ import tensorflow as tf
 time_now  = datetime.datetime.now().strftime('%m_%d_%Y_%H_%M_%S') 
 
 max_num_faces, refine_landmarks = 1, True
-min_detection_confidence, min_tracking_confidence = 0.1, 0.1 
+min_detection_confidence, min_tracking_confidence = 0.1, 0.1
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(max_num_faces = max_num_faces, refine_landmarks = refine_landmarks, min_detection_confidence = min_detection_confidence, min_tracking_confidence = min_tracking_confidence,)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-img_path", help='img path', type=str, default= "")
-parser.add_argument("-input_type", help='input type', type=str, default= "vdo")
+parser.add_argument("-input_type", help='input type', type=str, default= "img")
 parser.add_argument("-vdo_path", help='vdo_path path', type=str, default= "")
 parser.add_argument("-img_size", help='(height, width) size', type=int, default= 384)
 parser.add_argument("-scale", help='image scale', type=int, default=50)
@@ -85,20 +85,29 @@ def crop_face_med(img_path, vdo_path, img_size, out_path, input_type):
                   cropped = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_AREA)
                 except:
                   print('Error: No face detected')
-                  cropped_face_numpy.append(img)
+                  cropped = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_AREA)
+                  cropped_face_numpy.append(cropped)
           cropped_face_numpy.append(cropped)
       except:
           print('flags')
           cropped = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_AREA)
           cropped_face_numpy.append(cropped)
     resized_imgs = np.array(cropped_face_numpy)
+    # frameSize = (img_size, img_size)
+    # out = cv2.VideoWriter(out_path+'Crop_Video.mp4',cv2.VideoWriter_fourcc('m', 'p', '4', 'v'), 5, frameSize)
+    # for i in range(resized_imgs.shape[0]):
+    #     img = tf.image.resize_with_pad(resized_imgs[i], target_height=img_size, target_width=img_size, method=tf.image.ResizeMethod.BILINEAR, antialias=False).numpy().astype('uint8')
+    #     out.write(img)
+    # out.release()  
     return resized_imgs
 
 out_path = args.out_path
 input_type = args.input_type
 
-
-resized_img = crop_face_med(args.img_path, args.vdo_path, args.img_size, args.out_path, args.input_type)
-print(resized_img.shape)
-np.save(out_path+time_now+'.npy', resized_img)
-
+if input_type == 'vdo':
+    resized_img = crop_face_med(args.img_path, args.vdo_path, args.img_size, args.out_path, args.input_type)
+    print(resized_img.shape)
+    np.save(out_path+time_now+'.npy', resized_img)
+else :
+    result = crop_face_med(args.img_path, args.vdo_path, args.img_size, args.out_path, args.input_type)
+    cv2.imwrite(out_path+time_now+'.png', result[0])

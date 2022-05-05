@@ -1,0 +1,1 @@
+python crop_face_mediapipe_vdo_img_v1.py -input_type vdo -vdo_path C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/videos/videos/Club_Friday_Show.mp4 -img_size 384 -out_path D:/YoutubeCut/
