@@ -90,7 +90,7 @@
 
 ## Table2
 | no.  | Video  | x | y | 
-| :---:| :---: | :--- | 
+| :---:| :---: | :--- | :--- | 
 |  0  |  ClubFridayShow2  	|   |   |
 |  1  |  Club_Friday_Show  	|https://drive.google.com/file/d/175jOX7qPNsGsnaCn-bLvuZjxMNjNiuh-/view?usp=sharing   |https://drive.google.com/file/d/1LsNdhd-3tUj_UbH6laurMd8YBEJAH2TF/view?usp=sharing   |
 |  2  |  Love_in_Depression |   |   |
