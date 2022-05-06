@@ -91,7 +91,7 @@
 ## Table2
 | no.  | Video  | x | y | 
 | :---:| :---: | :--- | :--- | 
-|  0  |  ClubFridayShow2  	|<sub><sup>https://drive.google.com/file/d/1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing</sup></sub>   |https://drive.google.com/file/d/1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing   |
+|  0  |  ClubFridayShow2  	|<sub><sup>https://drive.google.com/<br>file/d/1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing</sup></sub>   |https://drive.google.com/file/d/1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing   |
 |  1  |  Club_Friday_Show  	|<font size="1">https://drive.google.com/file/d/175jOX7qPNsGsnaCn-bLvuZjxMNjNiuh-/view?usp=sharing</font>|https://drive.google.com/file/d/1LsNdhd-3tUj_UbH6laurMd8YBEJAH2TF/view?usp=sharing   |
 |  2  |  Love_in_Depression |   |   |
 |  3  |  face10_01  		|   |   |
