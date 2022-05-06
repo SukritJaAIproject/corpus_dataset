@@ -27,7 +27,11 @@
 ## Code
 	- Youtube_cut_corpus.ipynb : https://colab.research.google.com/drive/165qJ-q3Ai2dgxSJWA-pdHvIzlm3MNOtx?usp=sharing
 	
-<style scoped> table {font-size: 13px;} </style>
+<style>
+  .markdown-body table td {
+    font-size: 12px !important;
+  }
+</style>
 
 ## Table1
 |```no.```|```Video```|```lebel```|```shape```|```frames```|```FPS```| 
@@ -120,3 +124,4 @@
 
 	## Styless
 	- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796
+	- https://www.pluralsight.com/guides/working-tables-github-markdown
