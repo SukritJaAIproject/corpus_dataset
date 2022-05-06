@@ -91,15 +91,15 @@
 ## Table2
 | no.  | Video  | x | y | 
 | :---:| :---: | :--- | :--- | 
-|  0  |  ClubFridayShow2  	|   |   |
+|  0  |  ClubFridayShow2  	|https://drive.google.com/file/d/1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing   |https://drive.google.com/file/d/1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing   |
 |  1  |  Club_Friday_Show  	|https://drive.google.com/file/d/175jOX7qPNsGsnaCn-bLvuZjxMNjNiuh-/view?usp=sharing   |https://drive.google.com/file/d/1LsNdhd-3tUj_UbH6laurMd8YBEJAH2TF/view?usp=sharing   |
 |  2  |  Love_in_Depression |   |   |
 |  3  |  face10_01  		|   |   |
 |  4  |  face10_02  		|   |   |
-|  5  |  face1_01  			|   |   |
-|  6  |  face1_02  			|   |   |
-|  7  |  face1_03  			|   |   |
-|  8  |  face1_04  			|   |   |
+|  5  |  face1_01  			|https://drive.google.com/file/d/1jvD65mszqoZaSjZLJvlx-Loc3zsQNXCB/view?usp=sharing   |https://drive.google.com/file/d/1Y7vapjuxd9daKjC8PeZtWT5yek8XOnCn/view?usp=sharing   |
+|  6  |  face1_02  			|https://drive.google.com/file/d/1fTbtQ7Y-3lxW9n-tLi5evYoFBYK7rfBH/view?usp=sharing   |https://drive.google.com/file/d/105H0RT9iCVO0uwgy_s8lbWAm7QglMZ0V/view?usp=sharing   |
+|  7  |  face1_03  			|https://drive.google.com/file/d/1O83T6djepqU5wPVwyqvJqeJapbUzjBnN/view?usp=sharing   |https://drive.google.com/file/d/1AI-Cl2V4tmL4GocnrQrbphNT29sT_Ex2/view?usp=sharing   |
+|  8  |  face1_04  			|https://drive.google.com/file/d/1LyzRXdoGthIyW0wNRtUxuJoUakL4YphX/view?usp=sharing   |https://drive.google.com/file/d/1OeV28yGNqvzlJQ7yYiBmP6Q0TnrFMtn6/view?usp=sharing   |
 |  9  |  face1_05  			|   |   |
 |  10  |  face2_01 			|   |   |
 |  11  |  face2_02 			|   |   |
