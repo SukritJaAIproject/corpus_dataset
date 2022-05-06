@@ -35,8 +35,8 @@ face_mesh = mp_face_mesh.FaceMesh(max_num_faces=max_num_faces,
                                   min_detection_confidence=min_detection_confidence,
                                   min_tracking_confidence=min_tracking_confidence,)
 
-filepath = "C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/lebel/files/lasted_version/v1/face10_01.csv"
-vdopath = "C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/videos/videos/face10_01.mp4"
+filepath = "C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/lebel/files/lasted_version/v1/face5_01.csv"
+vdopath = "C:/Users/EGAT/Documents/GitHub/corpus_dataset/4_youtube_cut/videos/videos/face5_01.mp4"
 
 df = pd.read_csv(filepath)
 T_frames, fps = caminfo(vdopath)
@@ -67,5 +67,5 @@ for i in tqdm(range(df.shape[0])):
         print("error out")
           
 frames_ar, labels_ar = np.array(frames), np.array(labels)
-np.save(path+'face10_01_x.npy', frames_ar)
-np.save(path+'face10_01_y.npy', labels_ar)
+np.save(path+'face5_01_x.npy', frames_ar)
+np.save(path+'face5_01_y.npy', labels_ar)
