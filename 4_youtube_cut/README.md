@@ -91,8 +91,8 @@
 	## Table2
 | no.  | Video  | x | y | 
 | :---:| :---: | :--- | :--- | 
-|<sub>0</sub>|<sub>ClubFriday<br>Show2</sub>|<sub><sup>https://drive.google.com/file/d/<br>1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing</sup></sub>|https://drive.google.com/file/d/1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing   |
-|<sub>1</sub>|<sub>Club_Friday<br>Show</sub>|<sub>https://drive.google.com/file/d/<br>175jOX7qPNsGsnaCn-bLvuZjxMNjNiuh-/view?usp=sharing</sub>|https://drive.google.com/file/d/<br>1LsNdhd-3tUj_UbH6laurMd8YBEJAH2TF/view?usp=sharing   |
+|<sub>0</sub>|<sub>ClubFriday<br>Show2</sub>|<sub><sup>https://drive.google.com/file/d/<br>1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing</sup></sub>|<sub>https://drive.google.com/file/d/<br>1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing</sub>|
+|<sub>1</sub>|<sub>Club_Friday<br>Show</sub>|<sub>https://drive.google.com/file/d/<br>175jOX7qPNsGsnaCn-bLvuZjxMNjNiuh-/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>1LsNdhd-3tUj_UbH6laurMd8YBEJAH2TF/view?usp=sharing</sub>|
 |<sub>2</sub>|<sub>Love in<br>Depression</sub> |   |   |
 |<sub>3</sub>|<sub>face10_01</sub>|   |   |
 |<sub>4</sub>|<sub>face10_02</sub>|   |   |
