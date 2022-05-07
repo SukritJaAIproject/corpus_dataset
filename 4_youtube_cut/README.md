@@ -96,7 +96,7 @@
 | :---:| :---: | :---: | :---: | 
 |<sub>0</sub>|<sub>ClubFriday<br>Show2</sub>|<sub><https://drive.google.com/file/d/<br>1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing</sub>|
 |<sub>1</sub>|<sub>Club_Friday<br>Show</sub>|<sub>https://drive.google.com/file/d/<br>175jOX7qPNsGsnaCn-bLvuZjxMNjNiuh-/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>1LsNdhd-3tUj_UbH6laurMd8YBEJAH2TF/view?usp=sharing</sub>|
-|<sub>2</sub>|<sub>Love in<br>Depression</sub> |   |   |
+|<sub>2</sub>|<sub>Love in<br>Depression</sub>|<sub>https://drive.google.com/file/d/<br>1hEf0CzXUnL6Bil0zv-CC6xo2Ob8HvqPD/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>19cUhX3QHm9vYSF6IxVpet-Sw1uaK7CkB/view?usp=sharing</sub>|
 |<sub>3</sub>|<sub>face10_01</sub>|<sub>https://drive.google.com/file/d/<br>1Eo5Toq_wT5KJnlKj0JTGX1qnh5iFBbA_/view?usp=sharing</sup>|<sub>https://drive.google.com/file/d/<br>1eUtcFQ-VQ5-Ohv2WfUo5jNUxe34_3eEw/view?usp=sharing</sup>|
 |<sub>4</sub>|<sub>face10_02</sub>|<sub>https://drive.google.com/file/d/<br>14DY5MoyQmkzCiB1GFHuwn2ex7qSfIjCL/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>1S2mZi1l1_vxAL176mr3LeMA_lrCfZfhY/view?usp=sharing</sub>|
 |<sub>5</sub>|<sub>face1_01</sub>|<sub>https://drive.google.com/file/d/<br>1jvD65mszqoZaSjZLJvlx-Loc3zsQNXCB/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>1Y7vapjuxd9daKjC8PeZtWT5yek8XOnCn/view?usp=sharing</sub>|
