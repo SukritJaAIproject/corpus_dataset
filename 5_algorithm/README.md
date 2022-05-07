@@ -46,4 +46,15 @@
 	- voting_by_ai_copy3.ipynb : https://colab.research.google.com/drive/145y0kU6hzIuvmQEhZanWMt0TCwJmE66K?usp=sharing
 	- voting_by_ai_copy4.ipynb : https://colab.research.google.com/drive/1ZMKLVd2IF154VAOdWPpFjEDJcNN74UlZ?usp=sharing
 	
+## gerneral code
+	- Youtube_cut_corpus.ipynb : https://colab.research.google.com/drive/165qJ-q3Ai2dgxSJWA-pdHvIzlm3MNOtx?usp=sharing
+	- Youtube_cut_corpus_copy4.ipynb : https://colab.research.google.com/drive/1PzrYgaj6d4BpqkrknskZFmfrt1uH_7EG?usp=sharing
+	- Youtube_cut_corpus_copy2.ipynb : https://colab.research.google.com/drive/1oZZ7rziVOVmpcuVXExMVkzupTvr2jWfl?usp=sharing
+	- Youtube_cut_corpus_copy1.ipynb : https://colab.research.google.com/drive/10KYePe7nXBuwFHg_UPutFbA5XeSBID2p?usp=sharing
+	- Youtube_cut_corpus_copy3.ipynb : https://colab.research.google.com/drive/1sTkI-HF96ZNODe4sgq0qsBmeLxmCBOmx?usp=sharing
 	
+	
+	
+	
+	
+		
