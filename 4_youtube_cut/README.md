@@ -53,14 +53,14 @@
 |<sub>14</sup>|<sub>face5_02.mp4</sup>|<sub>face5_02.csv</sup>|<sub>(72, 4)</sup>|<sub>290084</sup>|<sub>60</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face5_02.png" width="72">|
 |<sub>15</sup>|<sub>face5_03.mp4</sup>|<sub>face5_03.csv</sup>|<sub>(5, 4)</sup>|<sub>16831</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face5_03.png" width="72">|
 |<sub>16</sup>|<sub>face6_01.mp4</sup>|<sub>face6_01.csv</sup>|<sub>(108, 4)</sup>|<sub>15216</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face6_01.png" width="72">|
-|<sub>17</sup>|<sub>face6_02.mp4</sup>|<sub>face6_02.csv</sup>|<sub>(228, 4)</sup>|<sub>35480</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>18</sup>|<sub>face7_01.mp4</sup>|<sub>face7_01.csv</sup>|<sub>(211, 4)</sup>|<sub>28211</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>19</sup>|<sub>face7_02.mp4</sup>|<sub>face7_02.csv</sup>|<sub>(10, 4)</sup>|<sub>5781</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>20</sup>|<sub>face9_1.mp4</sup>|<sub>face9_1.csv</sup>|<sub>(29, 4)</sup>|<sub>11288</sup>|<sub>29</sup>|<img src=" " width="72">|
-|<sub>21</sup>|<sub>face9_2.mp4</sup>|<sub>face9_2.csv</sup>|<sub>(21, 4)</sup>|<sub>14162</sup>|<sub>50</sup>|<img src=" " width="72">|
-|<sub>22</sup>|<sub>face9_3.mp4</sup>|<sub>face9_3.csv</sup>|<sub>(27, 4)</sup>|<sub>6414</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>23</sup>|<sub>face9_4.mp4</sup>|<sub>face9_4.csv</sup>|<sub>(81, 4)</sup>|<sub>16307</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>24</sup>|<sub>face9_5.mp4</sup>|<sub>face9_5.csv</sup>|<sub>(22, 4)</sup>|<sub>8864</sup>|<sub>25</sup>|<img src=" " width="72">|
+|<sub>17</sup>|<sub>face6_02.mp4</sup>|<sub>face6_02.csv</sup>|<sub>(228, 4)</sup>|<sub>35480</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face6_02.png" width="72">|
+|<sub>18</sup>|<sub>face7_01.mp4</sup>|<sub>face7_01.csv</sup>|<sub>(211, 4)</sup>|<sub>28211</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face7_01.png" width="72">|
+|<sub>19</sup>|<sub>face7_02.mp4</sup>|<sub>face7_02.csv</sup>|<sub>(10, 4)</sup>|<sub>5781</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face7_02.png" width="72">|
+|<sub>20</sup>|<sub>face9_1.mp4</sup>|<sub>face9_1.csv</sup>|<sub>(29, 4)</sup>|<sub>11288</sup>|<sub>29</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_1.png" width="72">|
+|<sub>21</sup>|<sub>face9_2.mp4</sup>|<sub>face9_2.csv</sup>|<sub>(21, 4)</sup>|<sub>14162</sup>|<sub>50</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_2.png" width="72">|
+|<sub>22</sup>|<sub>face9_3.mp4</sup>|<sub>face9_3.csv</sup>|<sub>(27, 4)</sup>|<sub>6414</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_3.png" width="72">|
+|<sub>23</sup>|<sub>face9_4.mp4</sup>|<sub>face9_4.csv</sup>|<sub>(81, 4)</sup>|<sub>16307</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_4.png" width="72">|
+|<sub>24</sup>|<sub>face9_5.mp4</sup>|<sub>face9_5.csv</sup>|<sub>(22, 4)</sup>|<sub>8864</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_5.png" width="72">|
 
 	## Table2
 |```no.```|```Video```|```lebel```|```x size```|```y size```|
