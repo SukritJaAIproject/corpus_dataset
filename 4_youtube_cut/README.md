@@ -34,11 +34,11 @@
 </style>
 
 ## Table1
-|```no.```|```Video```|```lebel```|```shape```|```frames```|```FPS```|```FPS```| 
+|```no.```|```Video```|```lebel```|```shape```|```frames```|```FPS```|```dist```| 
 | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-|<sub>0</sup>|<sub>ClubFridayShow2.mp4</sup>|<sub>Club_Friday_Show_dow.csv</sup>|<sub>(19, 2)</sup>|<sub>7900</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>1</sup>|<sub>Club_Friday_Show.mp4</sup>|<sub>Club_Friday_Show_pat.csv</sup>|<sub>(79, 2)</sup>|<sub>28010</sup>|<sub>25</sup>|<img src=" " width="72">|
-|<sub>2</sup>|<sub>Love_in_Depression.mp4</sup>|<sub>Love_in_Depression.csv</sup>|<sub>(80, 2)</sup>|<sub>57017</sup>|<sub>25</sup>|<img src=" " width="72">|
+|<sub>0</sup>|<sub>ClubFridayShow2.mp4</sup>|<sub>Club_Friday_Show_dow.csv</sup>|<sub>(19, 2)</sup>|<sub>7900</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/ClubFridayShow2.png" width="72">|
+|<sub>1</sup>|<sub>Club_Friday_Show.mp4</sup>|<sub>Club_Friday_Show_pat.csv</sup>|<sub>(79, 2)</sup>|<sub>28010</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/Club_Friday_Show.png" width="72">|
+|<sub>2</sup>|<sub>Love_in_Depression.mp4</sup>|<sub>Love_in_Depression.csv</sup>|<sub>(80, 2)</sup>|<sub>57017</sup>|<sub>25</sup>|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/Love_in_Depression.png" width="72">|
 |<sub>3</sup>|<sub>face10_01.mp4</sup>|<sub>face10_01.csv</sup>|<sub>(91, 4)</sup>|<sub>27503</sup>|<sub>25</sup>|<img src=" " width="72">|
 |<sub>4</sup>|<sub>face10_02.mp4</sup>|<sub>face10_02.csv</sup>|<sub>(109, 4)</sup>|<sub>24843</sup>|<sub>29</sup>|<img src=" " width="72">|
 |<sub>5</sup>|<sub>face1_01.mp4</sup>|<sub>face1_01.csv</sup>|<sub>(14, 4)</sup>|<sub>14547</sup>|<sub>25</sup>|<img src=" " width="72">|
