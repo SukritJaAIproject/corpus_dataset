@@ -68,8 +68,8 @@
 |<sub>0</sup>|<sub>ClubFridayShow2</sup>|<sub><sup>['neutral', 'sad']</sup></sub>| | |
 |<sub>1</sup>|<sub>Club_Friday_Show</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|			<sub>561.1 MB</sup>|<sub>36 KB</sup>|
 |<sub>2</sup>|<sub>Love_in_Depression</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|		<sub>5.49 GB</sup>|<sub>365 KB</sup>|
-|<sub>3</sup>|<sub>face10_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub></sup>|<sub></sup>|
-|<sub>4</sup>|<sub>face10_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub></sup>|<sub></sup>|
+|<sub>3</sup>|<sub>face10_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub>6.43 GB</sup>|<sub>427 KB</sup>|
+|<sub>4</sup>|<sub>face10_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub>8.76 GB</sup>|<sub>582 KB</sup>|
 |<sub>5</sup>|<sub>face1_01</sup>|<sub><sup>['angry', 'happy', 'neutral']</sup></sub>|									<sub>312.6 MB</sup>|<sub>20 KB</sup>|
 |<sub>6</sup>|<sub>face1_02</sup>|<sub><sup>['angry', 'happy', 'neutral']</sup></sub>|									<sub>2.16 GB</sup>|<sub>144 KB</sup>|
 |<sub>7</sup>|<sub>face1_03</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub>1.79 GB</sup>|<sub>119 KB</sup>|
@@ -83,13 +83,13 @@
 |<sub>15</sup>|<sub>face5_03</sup>|<sub><sup>['angry', 'sad']</sup></sub>|												<sub>488.5 MB</sup>|<sub>23 KB</sup>|
 |<sub>16</sup>|<sub>face6_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub>5.65 GB</sup>|<sub>375 KB</sup>|
 |<sub>17</sup>|<sub>face6_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub>16.39 GB</sup>|<sub>1.1 MB</sup>|
-|<sub>18</sup>|<sub>face7_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|						<sub> </sup>|<sub> </sup>|
-|<sub>19</sup>|<sub>face7_02</sup>|<sub><sup>['neutral', 'relax']</sup></sub>|											<sub> </sup>|<sub> </sup>|
-|<sub>20</sup>|<sub>face9_1</sup>|<sub><sup>['happy', 'neutral', 'relax']</sup></sub>|									<sub> </sup>|<sub> </sup>|
-|<sub>21</sup>|<sub>face9_2</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|							<sub> </sup>|<sub> </sup>|
-|<sub>22</sup>|<sub>face9_3</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|							<sub> </sup>|<sub> </sup>|
-|<sub>23</sup>|<sub>face9_4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub> </sup>|<sub> </sup>|
-|<sub>24</sup>|<sub>face9_5</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|							<sub> </sup>|<sub> </sup>|
+|<sub>18</sup>|<sub>face7_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|						<sub>15.87 GB</sup>|<sub>1 MB</sup>|
+|<sub>19</sup>|<sub>face7_02</sup>|<sub><sup>['neutral', 'relax']</sup></sub>|											<sub>1.55 GB</sup>|<sub>103 KB</sup>|
+|<sub>20</sup>|<sub>face9_1</sup>|<sub><sup>['happy', 'neutral', 'relax']</sup></sub>|									<sub>4.14 GB</sup>|<sub>275 KB</sup>|
+|<sub>21</sup>|<sub>face9_2</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|							<sub>3.54 GB</sup>|<sub>235 KB</sup>|
+|<sub>22</sup>|<sub>face9_3</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|							<sub>2.54 GB</sup>|<sub>169 KB</sup>|
+|<sub>23</sup>|<sub>face9_4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|					<sub>4.26 GB</sup>|<sub>283 KB</sup>|
+|<sub>24</sup>|<sub>face9_5</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|							<sub>1.15 GB</sup>|<sub>76 KB</sup>|
 
 	## Table2 
 		- https://drive.google.com/drive/folders/1XoYB0XoHRfXubePhaWj9ZfWi86BfDin-?usp=sharing (healthcam)
