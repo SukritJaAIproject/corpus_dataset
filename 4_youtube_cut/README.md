@@ -63,33 +63,33 @@
 |<sub>24</sup>|<sub>face9_5.mp4</sup>|<sub>face9_5.csv</sup>|<sub>(22, 4)</sup>|<sub>8864</sup>|<sub>25</sup>|
 
 	## Table2
-|```no.```|```Video```|```lebel```| 
-| :---:| :---: | :---: | 
-|<sub>0</sup>|<sub>ClubFridayShow2</sup>|<sub><sup>['neutral', 'sad']</sup></sub>|
-|<sub>1</sup>|<sub>Club_Friday_Show</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>2</sup>|<sub>Love_in_Depression</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>3</sup>|<sub>face10_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>4</sup>|<sub>face10_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>5</sup>|<sub>face1_01</sup>|<sub><sup>['angry', 'happy', 'neutral']</sup></sub>|
-|<sub>6</sup>|<sub>face1_02</sup>|<sub><sup>['angry', 'happy', 'neutral']</sup></sub>|
-|<sub>7</sup>|<sub>face1_03</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>8</sup>|<sub>face1_04</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>9</sup>|<sub>face1_05</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
-|<sub>10</sup>|<sub>face2_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>11</sup>|<sub>face2_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
-|<sub>12</sup>|<sub>face4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>13</sup>|<sub>face5_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>14</sup>|<sub>face5_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
-|<sub>15</sup>|<sub>face5_03</sup>|<sub><sup>['angry', 'sad']</sup></sub>|
-|<sub>16</sup>|<sub>face6_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>17</sup>|<sub>face6_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>18</sup>|<sub>face7_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
-|<sub>19</sup>|<sub>face7_02</sup>|<sub><sup>['neutral', 'relax']</sup></sub>|
-|<sub>20</sup>|<sub>face9_1</sup>|<sub><sup>['happy', 'neutral', 'relax']</sup></sub>|
-|<sub>21</sup>|<sub>face9_2</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
-|<sub>22</sup>|<sub>face9_3</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
-|<sub>23</sup>|<sub>face9_4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|
-|<sub>24</sup>|<sub>face9_5</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|
+|```no.```|```Video```|```lebel```|```x size```|```y size```|
+| :---:| :---: | :---: | :---: | :---: |  
+|<sub>0</sup>|<sub>ClubFridayShow2</sup>|<sub><sup>['neutral', 'sad']</sup></sub>| | |
+|<sub>1</sup>|<sub>Club_Friday_Show</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub>561.1 MB</sup>|<sub>36 KB</sup>|
+|<sub>2</sup>|<sub>Love_in_Depression</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub>5.49 GB</sup>|<sub>365 KB</sup>|
+|<sub>3</sup>|<sub>face10_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub>312.6 MB</sup>|<sub>20 KB</sup>|
+|<sub>4</sup>|<sub>face10_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>5</sup>|<sub>face1_01</sup>|<sub><sup>['angry', 'happy', 'neutral']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>6</sup>|<sub>face1_02</sup>|<sub><sup>['angry', 'happy', 'neutral']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>7</sup>|<sub>face1_03</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>8</sup>|<sub>face1_04</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>9</sup>|<sub>face1_05</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>| </sup>|<sub> </sup>|
+|<sub>10</sup>|<sub>face2_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>11</sup>|<sub>face2_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>12</sup>|<sub>face4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>13</sup>|<sub>face5_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>14</sup>|<sub>face5_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>15</sup>|<sub>face5_03</sup>|<sub><sup>['angry', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>16</sup>|<sub>face6_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>17</sup>|<sub>face6_02</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>18</sup>|<sub>face7_01</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>19</sup>|<sub>face7_02</sup>|<sub><sup>['neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>20</sup>|<sub>face9_1</sup>|<sub><sup>['happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>21</sup>|<sub>face9_2</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>22</sup>|<sub>face9_3</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>23</sup>|<sub>face9_4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>|<sub> </sup>|<sub> </sup>|
+|<sub>24</sup>|<sub>face9_5</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>|<sub> </sup>|<sub> </sup>|
 
 	## Table2 
 		- https://drive.google.com/drive/folders/1XoYB0XoHRfXubePhaWj9ZfWi86BfDin-?usp=sharing (healthcam)
