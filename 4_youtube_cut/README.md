@@ -91,9 +91,9 @@
 |<sub>0</sup>			|<sub>YTC_x_0_9</sup>		|<sub><sup></sup></sub>				|<sub>38.9 GB</sup>			|<sub>2.5 MB</sup>|
 |<sub>1</sup>			|<sub>YTC_x_10_12</sup>		|<sub><sup></sup></sub>				|<sub>44.37 GB</sup>		|<sub>2.9 MB</sup>|
 |<sub>2</sup>			|<sub>YTC_x_12_16</sup>		|<sub><sup></sup></sub>				|<sub>49.43 GB</sup>		|<sub>3.2 MB</sup>|
-|<sub>3</sup>			|<sub>YTC_x_16_end</sup>	|<sub><sup></sup></sub>				|<sub>55.09 GB</sup>		|<sub>3.6 MB</sup>|
+|<sub>3</sup>			|<sub>YTC_x_16_24</sup>	|<sub><sup></sup></sub>				|<sub>55.09 GB</sup>		|<sub>3.6 MB</sup>|
 |<sub>4</sup>			|<sub>YTC_x_16_20</sup>		|<sub><sup></sup></sub>				|<sub>39.46 GB</sup>		|<sub>2.6 MB</sup>|
-|<sub>5</sup>			|<sub>YTC_x_20_end</sup>	|<sub><sup></sup></sub>				|<sub>15.62 GB</sup>		|<sub>1 MB</sup>|
+|<sub>5</sup>			|<sub>YTC_x_20_24</sup>	|<sub><sup></sup></sub>				|<sub>15.62 GB</sup>		|<sub>1 MB</sup>|
 ## Table3
 	- https://drive.google.com/drive/folders/1XoYB0XoHRfXubePhaWj9ZfWi86BfDin-?usp=sharing (healthcam)
 |```no.```|```Video```|```x```|```y```| 
