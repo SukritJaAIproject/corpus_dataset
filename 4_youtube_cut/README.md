@@ -27,12 +27,6 @@
 ## Code
 	- Youtube_cut_corpus.ipynb : https://colab.research.google.com/drive/165qJ-q3Ai2dgxSJWA-pdHvIzlm3MNOtx?usp=sharing
 	
-<style>
-  .markdown-body table td {
-    font-size: 12px !important;
-  }
-</style>
-
 ## Table1
 |```no.```|```Video```|```lebel```|```shape```|```frames```|```samples```|```FPS```|```dist```|
 | :---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -62,7 +56,7 @@
 |<sub>23</sup>		|<sub>face9_4.mp4</sup>							|<sub>face9_4.csv</sup>								|<sub>(81, 4)</sup>				|<sub>(10329,)</sup>			|<sub>16307</sup>|<sub>25</sup>				|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_4.png" width="72">|
 |<sub>24</sup>		|<sub>face9_5.mp4</sup>							|<sub>face9_5.csv</sup>								|<sub>(22, 4)</sup>				|<sub>(2785,)</sup>				|<sub>8864</sup>|<sub>25</sup>				|<img src="https://github.com/SukritJaAIproject/corpus_dataset/blob/main/4_youtube_cut/pic/face9_5.png" width="72">|
 
-	## Table2
+## Table2
 |```no.```|```Video```|```lebel```|```x size```|```y size```|
 | :---:| :---: | :---: | :---: | :---: |  
 |<sub>0</sup>|<sub>ClubFridayShow2</sup>|<sub><sup>['neutral', 'sad']</sup></sub>										|<sub>561.1 MB</sub>|<sub>36 KB</sub>|
@@ -91,8 +85,8 @@
 |<sub>23</sup>|<sub>face9_4</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax', 'sad']</sup></sub>					|<sub>4.26 GB</sup>|<sub>283 KB</sup>|
 |<sub>24</sup>|<sub>face9_5</sup>|<sub><sup>['angry', 'happy', 'neutral', 'relax']</sup></sub>							|<sub>1.15 GB</sup>|<sub>76 KB</sup>|
 
-	## Table2 
-		- https://drive.google.com/drive/folders/1XoYB0XoHRfXubePhaWj9ZfWi86BfDin-?usp=sharing (healthcam)
+## Table3
+	- https://drive.google.com/drive/folders/1XoYB0XoHRfXubePhaWj9ZfWi86BfDin-?usp=sharing (healthcam)
 |```no.```|```Video```|```x```|```y```| 
 | :---:| :---: | :---: | :---: | 
 |<sub>0</sub>|<sub>ClubFriday<br>Show2</sub>|<sub><https://drive.google.com/file/d/<br>1f_duwyvzOIxnQJsN87nEFWs7YJFY7IxW/view?usp=sharing</sub>|<sub>https://drive.google.com/file/d/<br>1aytbVCulR4CDDsqIasaUH5Get1XafFMB/view?usp=sharing</sub>|
