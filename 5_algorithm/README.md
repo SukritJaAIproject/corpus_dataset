@@ -29,6 +29,7 @@
 	- resnet18_copy3.ipynb : https://colab.research.google.com/drive/17o1wA5nudhTsxNZDfB4nLOQyxGJvurmt?usp=sharing
 	- resnet18_copy4.ipynb : https://colab.research.google.com/drive/1yGp4AP5TF21ERm58hme69AluFiy8xH4u?usp=sharing
 	- Copy of resnet18_copy1.ipynb : https://colab.research.google.com/drive/1802TPL-UJw51YXam5RE4AA5r0Q12S5Ln?usp=sharing
+	- resnet18_copy5.ipynb : https://colab.research.google.com/drive/1hPIyviYiQP9loTaxu26oiabdELxXI1G_?usp=sharing
 
 ## general code
 	- voting : https://colab.research.google.com/drive/1zIy-U6n0fAivQVH4PAs6MhTAQRtUA3le?usp=sharing
