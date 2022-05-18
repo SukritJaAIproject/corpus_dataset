@@ -22,6 +22,12 @@
 		- CNN_Res50_train_update_11042656_copy2.ipynb : https://colab.research.google.com/drive/1Ra4f8Ae9Q0TFcyTyOuzqejZeqEoynBp2?usp=sharing
 		- CNN_Res50_train_update_11042656_copy3.ipynb : https://colab.research.google.com/drive/1G74-oNQEgNuz-LtibtF_jQ80su-rxIsC?usp=sharing
 		- Resnet50_v2.ipynb : https://colab.research.google.com/drive/1c2Mpx2QzHY9f-i1o_fzInqevREI4lvqc?usp=sharing
+		- resnet18_copy6.ipynb : https://colab.research.google.com/drive/1yVsjaxsb5gymAyaoluIGpdWKPQlLrQBa?usp=sharing
+		- resnet18_copy7.ipynb : https://colab.research.google.com/drive/1a-_LWwvB1sKgSPaG0gJBybWAmZN25Yqb?usp=sharing
+		
+		
+		
+		
 	
 ## resnet18 model
 	- resnet18_copy1.ipynb : https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
