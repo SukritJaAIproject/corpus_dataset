@@ -25,10 +25,6 @@
 		- resnet18_copy6.ipynb : https://colab.research.google.com/drive/1yVsjaxsb5gymAyaoluIGpdWKPQlLrQBa?usp=sharing
 		- resnet18_copy7.ipynb : https://colab.research.google.com/drive/1a-_LWwvB1sKgSPaG0gJBybWAmZN25Yqb?usp=sharing
 		
-		
-		
-		
-	
 ## resnet18 model
 	- resnet18_copy1.ipynb : https://colab.research.google.com/drive/1kBlGhC5xoD21fHJtDql0QZZTZsan51ei?usp=sharing
 	- resnet18_copy2.ipynb : https://colab.research.google.com/drive/1wZEoCh1s4W6plReSvoeXovojDMeZDepk?usp=sharing
@@ -60,8 +56,10 @@
 	- Youtube_cut_corpus_copy1.ipynb : https://colab.research.google.com/drive/10KYePe7nXBuwFHg_UPutFbA5XeSBID2p?usp=sharing
 	- Youtube_cut_corpus_copy3.ipynb : https://colab.research.google.com/drive/1sTkI-HF96ZNODe4sgq0qsBmeLxmCBOmx?usp=sharing
 	
-	
-	
-	
+## Youtube_cut_big.ipynb
+	- Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1rhc508Xxw2JVUWFa0ym2eXTn-Be-dczs?usp=sharing
+	- Copy of Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1F4JPeSQfSSnm80_r9FIzbSpmZB6g0Plu?usp=sharing
+	- Copy of Copy of Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1jfqGbMzuHNWJcxoU36t2RKvHNVGGPUWQ?usp=sharing
+	- Copy of Copy of Copy of Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1hWRiOc5v4FTZdU0ENoG4h0Ar3hSM7wO0?usp=sharing
 	
 		
