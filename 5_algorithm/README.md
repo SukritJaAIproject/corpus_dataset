@@ -61,5 +61,9 @@
 	- Copy of Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1F4JPeSQfSSnm80_r9FIzbSpmZB6g0Plu?usp=sharing
 	- Copy of Copy of Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1jfqGbMzuHNWJcxoU36t2RKvHNVGGPUWQ?usp=sharing
 	- Copy of Copy of Copy of Youtube_cut_big.ipynb : https://colab.research.google.com/drive/1hWRiOc5v4FTZdU0ENoG4h0Ar3hSM7wO0?usp=sharing
+	- EfficientNet_V2S_V2L.ipynb : https://colab.research.google.com/drive/1jfqGbMzuHNWJcxoU36t2RKvHNVGGPUWQ?usp=sharing
+	- YoutubeCut_ResNet50.ipynb : https://colab.research.google.com/drive/1rhc508Xxw2JVUWFa0ym2eXTn-Be-dczs?usp=sharing
+	- EfficientNetV2S.ipynb : https://colab.research.google.com/drive/1F4JPeSQfSSnm80_r9FIzbSpmZB6g0Plu?usp=sharing
+	- resmasknet.ipynb : https://colab.research.google.com/drive/1p-xeRc8cW7gGa5VQwkLa0ENqA-NjUclE?usp=sharing
 	
-		
+	
