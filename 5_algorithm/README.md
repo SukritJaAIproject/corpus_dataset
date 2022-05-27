@@ -70,14 +70,21 @@
 	- fer_chula.ipynb : https://colab.research.google.com/drive/1n6oIr5WpcDvlY8lmzC8_32WcXF0zBhY3?usp=sharing
 	- vit_small_ds_Test_005_chula.ipynb : https://colab.research.google.com/drive/1k7zW5UHAQ_jHvNptRwSuOXVoVK-2Swn3?usp=sharing
 	- สำเนาของ สำเนาของ vit_small_ds_chula.ipynb : https://colab.research.google.com/drive/1mUZvHvAlYKUUk7Bush0ob5cGDM7DBYn1?usp=sharing
-	
-	
+	- evaluate_p12_Test_000.ipynb : https://colab.research.google.com/drive/1Yf3gB4aiwktk9OFcihD2L8A1E6RnHag5?usp=sharing
+	- efficientnetV2_basic_test.ipynb : https://colab.research.google.com/drive/1vmAEfF9tUgK2gkrS5qVftadTyUcX343D?usp=sharing
+	- สำเนาของ_vit_small_ds_Test_005.ipynb : https://colab.research.google.com/drive/1kGhpI1sXTkSPbClrwqMi3mzb2mw8yja0?usp=sharing
+	- resmasknet(1).ipynb : https://colab.research.google.com/drive/1ORBmsCK6w-9-p3Kk2pVDEf-xVn9YpikS?usp=sharing
+	- fer.ipynb : https://colab.research.google.com/drive/1bK83FzPYZ-NO6JBbv30NCBI4fi4Yjsf6?usp=sharing
 	
 	
 
 ## Refence
 	- https://stackoverflow.com/questions/57791851/cast-tensorflow-2-0-batchdataset-to-numpy-array
 	- https://tensorflow.google.cn/tutorials/load_data/images?hl=en
+	- https://githubplus.com/sebastian-sz/efficientnet-v2-keras
+	- https://githubhelp.com/albert-92/Keras_efficientnet_v2
+	- https://github.com/leondgarse/Keras_efficientnet_v2
+	- https://github.com/sebastian-sz/efficientnet-v2-keras
 	
 	
 	
