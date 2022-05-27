@@ -75,7 +75,7 @@
 	- สำเนาของ_vit_small_ds_Test_005.ipynb : https://colab.research.google.com/drive/1kGhpI1sXTkSPbClrwqMi3mzb2mw8yja0?usp=sharing
 	- resmasknet(1).ipynb : https://colab.research.google.com/drive/1ORBmsCK6w-9-p3Kk2pVDEf-xVn9YpikS?usp=sharing
 	- fer.ipynb : https://colab.research.google.com/drive/1bK83FzPYZ-NO6JBbv30NCBI4fi4Yjsf6?usp=sharing
-	
+	- rf(1).ipynb : https://colab.research.google.com/drive/1WmFuHfRfq4NyOjce6l-XFQoGqH3XLxVv?usp=sharing
 	
 
 ## Refence
