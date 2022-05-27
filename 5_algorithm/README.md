@@ -65,5 +65,21 @@
 	- YoutubeCut_ResNet50.ipynb : https://colab.research.google.com/drive/1rhc508Xxw2JVUWFa0ym2eXTn-Be-dczs?usp=sharing
 	- EfficientNetV2S.ipynb : https://colab.research.google.com/drive/1F4JPeSQfSSnm80_r9FIzbSpmZB6g0Plu?usp=sharing
 	- resmasknet.ipynb : https://colab.research.google.com/drive/1p-xeRc8cW7gGa5VQwkLa0ENqA-NjUclE?usp=sharing
+	- EfficientNetV2L_chula.ipynb : https://colab.research.google.com/drive/1EltIHYJGZz0d-Fahk6-sQEarS0x8Uy2c?usp=sharing
+	- evaluate_p12_Test_001_ResNet50_chula.ipynb : https://colab.research.google.com/drive/1-8jYlOOdmJI10JSasBY_2afvIySL6w5A?usp=sharing
+	- fer_chula.ipynb : https://colab.research.google.com/drive/1n6oIr5WpcDvlY8lmzC8_32WcXF0zBhY3?usp=sharing
+	- vit_small_ds_Test_005_chula.ipynb : https://colab.research.google.com/drive/1k7zW5UHAQ_jHvNptRwSuOXVoVK-2Swn3?usp=sharing
+	- สำเนาของ สำเนาของ vit_small_ds_chula.ipynb : https://colab.research.google.com/drive/1mUZvHvAlYKUUk7Bush0ob5cGDM7DBYn1?usp=sharing
+	
+	
+	
+	
+
+## Refence
+	- https://stackoverflow.com/questions/57791851/cast-tensorflow-2-0-batchdataset-to-numpy-array
+	- https://tensorflow.google.cn/tutorials/load_data/images?hl=en
+	
+	
+	
 	
 	
